@@ -41,8 +41,8 @@ func getRepositories(ctx context.Context, client *github.Client) []github.Reposi
 
 // Project is repo with readme
 type Project struct {
-	payload github.Repository
-	readme  string
+	Payload github.Repository
+	Readme  string
 }
 
 func getReadmes(ctx context.Context, client *github.Client, repos []github.Repository) []Project {
@@ -55,8 +55,8 @@ func getReadmes(ctx context.Context, client *github.Client, repos []github.Repos
 		}
 
 		projects = append(projects, Project{
-			payload: repos[i],
-			readme:  *readme.Content,
+			Payload: repos[i],
+			Readme:  *readme.Content,
 		})
 
 		log.Println(fmt.Sprintf("Retrieved README for %s", *repos[i].Name))

@@ -2,6 +2,9 @@ package main
 
 import (
 	"context"
+	"encoding/json"
+	"fmt"
+	"io/ioutil"
 	"log"
 	"os"
 
@@ -12,31 +15,60 @@ import (
 // Minimum number of stargazers (stargazers_count) for a repository
 var minimumStargazes = 150
 
-func getSampleRepositories(ctx context.Context, client *github.Client) []*github.Repository {
-	repos, response, err := client.Repositories.List(ctx, "", &github.RepositoryListOptions{})
-	if err == nil {
-		log.Fatal(err, response)
-	}
+func getRepositories(ctx context.Context, client *github.Client) []github.Repository {
+	var repos []github.Repository
 
-	ret := []*github.Repository{}
-	for i := range repos {
-		if *repos[i].StargazersCount >= minimumStargazes {
-			ret = append(repos, repos[i])
+	for true {
+		result, response, err := client.Search.Repositories(ctx, fmt.Sprintf("stars:>=%d", minimumStargazes), &github.SearchOptions{})
+
+		if _, ok := err.(*github.RateLimitError); ok {
+			log.Println("Hit rate limit")
+			break
 		}
+
+		if err != nil {
+			log.Fatal("Failed to load repos: ", err)
+		}
+
+		repos = append(repos, result.Repositories...)
+
+		log.Println(fmt.Sprintf("Retrieved %d repositories, %d requests left", len(result.Repositories), response.Remaining))
+		break
 	}
 
-	return ret
+	return repos
 }
 
-func getReadmes(ctx context.Context, client *github.Client) {
-	// readme, response, err := client.Repositories.GetReadme(ctx, "golang", "go", &github.RepositoryContentGetOptions{})
+// Project is repo with readme
+type Project struct {
+	payload github.Repository
+	readme  string
+}
+
+func getReadmes(ctx context.Context, client *github.Client, repos []github.Repository) []Project {
+	var projects []Project
+	for i := range repos {
+		readme, _, err := client.Repositories.GetReadme(ctx, *(*repos[i].Owner).Login, *repos[i].Name, &github.RepositoryContentGetOptions{})
+
+		if err != nil {
+			log.Fatal("Failed to load readme: ", err)
+		}
+
+		projects = append(projects, Project{
+			payload: repos[i],
+			readme:  *readme.Content,
+		})
+
+		log.Println(fmt.Sprintf("Retrieved README for %s", *repos[i].Name))
+	}
+
+	return projects
 }
 
 func main() {
 	accessToken := os.Getenv("QoDA_GITHUB_PAT")
 	if accessToken == "" {
 		log.Fatal("GitHub Personal Access token was not defined")
-		os.Exit(1)
 	}
 
 	ctx := context.Background()
@@ -47,10 +79,18 @@ func main() {
 
 	client := github.NewClient(tc)
 
-	// Get a sample of repositories
-	repos := getSampleRepositories(ctx, client)
-	println(repos)
+	// Get repositories
+	repos := getRepositories(ctx, client)
 
 	// Get all READMEs from repositories
-	// getReadmes(ctx, client)
+	readmes := getReadmes(ctx, client, repos)
+
+	// Generate json
+	json, err := json.Marshal(readmes)
+	if err != nil {
+		log.Fatal("Failed to generate json: ", err)
+	}
+
+	// Save to file
+	err = ioutil.WriteFile("output.json", json, 0644)
 }

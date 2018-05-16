@@ -7,6 +7,7 @@ import (
 	"io/ioutil"
 	"log"
 	"os"
+	"time"
 
 	"github.com/google/go-github/github"
 	"golang.org/x/oauth2"
@@ -15,25 +16,39 @@ import (
 // Minimum number of stargazers (stargazers_count) for a repository
 var minimumStargazes = 150
 
+// Sample size
+var sampleSize = 5000
+
+// File to output data to
+var outputFilename = "output.json"
+
 func getRepositories(ctx context.Context, client *github.Client) []github.Repository {
 	var repos []github.Repository
+	opt := &github.SearchOptions{
+		Sort: "updated",
+	}
 
-	for true {
-		result, response, err := client.Search.Repositories(ctx, fmt.Sprintf("stars:>=%d", minimumStargazes), &github.SearchOptions{})
+	for len(repos) < sampleSize {
+		result, response, err := client.Search.Repositories(ctx, fmt.Sprintf("stars:>=%d", minimumStargazes), opt)
 
 		if _, ok := err.(*github.RateLimitError); ok {
-			log.Println("Hit rate limit")
-			break
+			log.Println("Hit rate limit, retrying in 10 seconds")
+			time.sleep(10)
+			continue
 		}
 
 		if err != nil {
-			log.Fatal("Failed to load repos: ", err)
+			log.Fatal("Failed to load repos:", err)
 		}
 
 		repos = append(repos, result.Repositories...)
 
+		if response.NextPage == 0 {
+			break
+		}
+		opt.Page = response.NextPage
+
 		log.Println(fmt.Sprintf("Retrieved %d repositories, %d requests left", len(result.Repositories), response.Remaining))
-		break
 	}
 
 	return repos
@@ -47,11 +62,16 @@ type Project struct {
 
 func getReadmes(ctx context.Context, client *github.Client, repos []github.Repository) []Project {
 	var projects []Project
-	for i := range repos {
-		readme, _, err := client.Repositories.GetReadme(ctx, *(*repos[i].Owner).Login, *repos[i].Name, &github.RepositoryContentGetOptions{})
 
-		if err != nil {
-			log.Fatal("Failed to load readme: ", err)
+	for i := range repos {
+		readme, response, err := client.Repositories.GetReadme(ctx, *(*repos[i].Owner).Login, *repos[i].Name, &github.RepositoryContentGetOptions{})
+
+		if response.StatusCode == 404 {
+			log.Println("No readme for", *repos[i].Name, "skipping")
+			continue
+		} else if err != nil {
+			log.Println("Failed to load readme:", err)
+			continue
 		}
 
 		projects = append(projects, Project{
@@ -88,9 +108,10 @@ func main() {
 	// Generate json
 	json, err := json.Marshal(readmes)
 	if err != nil {
-		log.Fatal("Failed to generate json: ", err)
+		log.Fatal("Failed to generate json:", err)
 	}
+	log.Println("Saved json to", outputFilename)
 
 	// Save to file
-	err = ioutil.WriteFile("output.json", json, 0644)
+	err = ioutil.WriteFile(outputFilename, json, 0644)
 }

@@ -7,6 +7,7 @@ import (
 	"io/ioutil"
 	"log"
 	"os"
+	"strings"
 	"time"
 
 	"github.com/google/go-github/github"
@@ -17,7 +18,7 @@ import (
 var minimumStargazes = 150
 
 // Sample size
-var sampleSize = 5000
+var sampleSize = 10000
 
 // File to output data to
 var outputFilename = "output.json"
@@ -33,7 +34,7 @@ func getRepositories(ctx context.Context, client *github.Client) []github.Reposi
 
 		if _, ok := err.(*github.RateLimitError); ok {
 			log.Println("Hit rate limit, retrying in 10 seconds")
-			time.sleep(10)
+			time.Sleep(10)
 			continue
 		}
 
@@ -54,13 +55,29 @@ func getRepositories(ctx context.Context, client *github.Client) []github.Reposi
 	return repos
 }
 
-// Project is repo with readme
-type Project struct {
-	Payload github.Repository
-	Readme  string
+func filterToMarkdown(tree github.Tree) ([]github.TreeEntry, int) {
+	var entries []github.TreeEntry
+	totalBytes := 0
+
+	for i := range tree.Entries {
+		if strings.HasSuffix(*tree.Entries[i].Path, ".md") {
+			totalBytes += *tree.Entries[i].Size
+			entries = append(entries, tree.Entries[i])
+		}
+	}
+
+	return entries, totalBytes
 }
 
-func getReadmes(ctx context.Context, client *github.Client, repos []github.Repository) []Project {
+// Project is repo with readme
+type Project struct {
+	RepoInfo    github.Repository
+	Readme      github.RepositoryContent
+	TreeEntries []github.TreeEntry
+	TotalBytes  int
+}
+
+func getFileData(ctx context.Context, client *github.Client, repos []github.Repository) []Project {
 	var projects []Project
 
 	for i := range repos {
@@ -74,12 +91,30 @@ func getReadmes(ctx context.Context, client *github.Client, repos []github.Repos
 			continue
 		}
 
+		latestCommit, response, err := client.Repositories.GetCommit(ctx, *(*repos[i].Owner).Login, *repos[i].Name, *repos[i].DefaultBranch)
+
+		if err != nil {
+			log.Println("Failed to load latest commit:", err)
+			continue
+		}
+
+		tree, response, err := client.Git.GetTree(ctx, *(*repos[i].Owner).Login, *repos[i].Name, *latestCommit.SHA, true)
+
+		if err != nil {
+			log.Println("Failed to load latest commit:", err)
+			continue
+		}
+
+		entries, totalBytes := filterToMarkdown(*tree)
+
 		projects = append(projects, Project{
-			Payload: repos[i],
-			Readme:  *readme.Content,
+			RepoInfo:    repos[i],
+			Readme:      *readme,
+			TreeEntries: entries,
+			TotalBytes:  totalBytes,
 		})
 
-		log.Println(fmt.Sprintf("Retrieved README for %s", *repos[i].Name))
+		log.Println(fmt.Sprintf("Retrieved language size for %s", *repos[i].Name))
 	}
 
 	return projects
@@ -103,10 +138,10 @@ func main() {
 	repos := getRepositories(ctx, client)
 
 	// Get all READMEs from repositories
-	readmes := getReadmes(ctx, client, repos)
+	projects := getFileData(ctx, client, repos)
 
 	// Generate json
-	json, err := json.Marshal(readmes)
+	json, err := json.Marshal(projects)
 	if err != nil {
 		log.Fatal("Failed to generate json:", err)
 	}

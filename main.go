@@ -2,14 +2,17 @@ package main
 
 import (
 	"context"
+	"encoding/base64"
 	"encoding/json"
 	"fmt"
 	"io/ioutil"
 	"log"
+	"math"
 	"os"
 	"strings"
 	"time"
 
+	"github.com/BluntSporks/readability"
 	"github.com/google/go-github/github"
 	"golang.org/x/oauth2"
 )
@@ -18,7 +21,7 @@ import (
 var minimumStargazes = 150
 
 // Sample size
-var sampleSize = 5000
+var sampleSize = 1000
 
 /*
  * Supported documentation extensions
@@ -95,11 +98,46 @@ func filterToDocs(tree github.Tree) ([]github.TreeEntry, int) {
 	return entries, totalBytes
 }
 
+func getReadabilityScore(ctx context.Context, client *github.Client, owner string, repo string, files []github.TreeEntry) float64 {
+	totalScore := float64(0)
+	n := float64(0)
+	for i := range files {
+		if files[i].Content == nil {
+			newContent, _, _, err := client.Repositories.GetContents(ctx, owner, repo, *files[i].Path, &github.RepositoryContentGetOptions{})
+			for _, ok := err.(*github.RateLimitError); !ok; _, ok = err.(*github.RateLimitError) {
+				log.Println("Hit rate limit, retrying in 10 seconds")
+				time.Sleep(10 * time.Second)
+			}
+
+			if err != nil {
+				log.Println("Failed to get file", err)
+				continue
+			}
+			files[i].Content = newContent.Content
+		}
+		if files[i].Content == nil {
+			continue
+		}
+		decoded, err := base64.StdEncoding.DecodeString(*files[i].Content)
+		if err != nil {
+			log.Fatal("Failed to decode base64 string")
+		}
+		score := read.Gfi(string(decoded))
+		if !math.IsInf(score, 1) {
+			totalScore += score
+			n += 1.0
+		}
+	}
+
+	return totalScore / n
+}
+
 // Project is repo with readme
 type Project struct {
-	Name       string
-	Forks      int
-	TotalBytes int
+	Name            string
+	Forks           int
+	TotalBytes      int
+	GunningFogIndex float64
 }
 
 func getFileData(ctx context.Context, client *github.Client, repos []github.Repository) []Project {
@@ -120,15 +158,16 @@ func getFileData(ctx context.Context, client *github.Client, repos []github.Repo
 			continue
 		}
 
-		_, totalBytes := filterToDocs(*tree)
+		files, totalBytes := filterToDocs(*tree)
 
 		projects = append(projects, Project{
-			Name:       *repos[i].FullName,
-			Forks:      *repos[i].ForksCount,
-			TotalBytes: totalBytes,
+			Name:            *repos[i].FullName,
+			Forks:           *repos[i].ForksCount,
+			TotalBytes:      totalBytes,
+			GunningFogIndex: getReadabilityScore(ctx, client, *(*repos[i].Owner).Login, *repos[i].Name, files),
 		})
 
-		log.Println(fmt.Sprintf("Retrieved language size for %s", *repos[i].Name))
+		log.Println(fmt.Sprintf("Retrieved factors for %s", *repos[i].Name))
 	}
 
 	return projects

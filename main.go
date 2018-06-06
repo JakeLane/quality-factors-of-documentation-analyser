@@ -18,7 +18,15 @@ import (
 var minimumStargazes = 150
 
 // Sample size
-var sampleSize = 10000
+var sampleSize = 5000
+
+/*
+ * Supported documentation extensions
+ * Markdown (.md): docpress, GitBook, Slate, ReadTheDocs, docsify, docpress, DocumentUp, docbox
+ * AsciiDoc (.adoc): GitBook
+ * reStructuredText (.rst): ReadTheDocs
+ */
+var docsExtensions = []string{".md", ".rst", ".adoc"}
 
 // File to output data to
 var outputFilename = "output.json"
@@ -27,14 +35,18 @@ func getRepositories(ctx context.Context, client *github.Client) []github.Reposi
 	var repos []github.Repository
 	opt := &github.SearchOptions{
 		Sort: "updated",
+		ListOptions: github.ListOptions{
+			PerPage: sampleSize,
+		},
 	}
 
 	for len(repos) < sampleSize {
+		opt.ListOptions.PerPage = sampleSize - len(repos)
 		result, response, err := client.Search.Repositories(ctx, fmt.Sprintf("stars:>=%d", minimumStargazes), opt)
 
 		if _, ok := err.(*github.RateLimitError); ok {
 			log.Println("Hit rate limit, retrying in 10 seconds")
-			time.Sleep(10)
+			time.Sleep(10 * time.Second)
 			continue
 		}
 
@@ -49,21 +61,35 @@ func getRepositories(ctx context.Context, client *github.Client) []github.Reposi
 		}
 		opt.Page = response.NextPage
 
-		log.Println(fmt.Sprintf("Retrieved %d repositories, %d requests left", len(result.Repositories), response.Remaining))
+		log.Println(
+			fmt.Sprintf("Retrieved %d repositories, %d requests left, %d repositories left",
+				len(result.Repositories),
+				response.Remaining,
+				sampleSize-len(repos),
+			),
+		)
 	}
 
 	return repos
 }
 
-func filterToMarkdown(tree github.Tree) ([]github.TreeEntry, int) {
+func filterToDocs(tree github.Tree) ([]github.TreeEntry, int) {
 	var entries []github.TreeEntry
 	totalBytes := 0
 
 	for i := range tree.Entries {
-		if strings.HasSuffix(*tree.Entries[i].Path, ".md") {
-			totalBytes += *tree.Entries[i].Size
-			entries = append(entries, tree.Entries[i])
+		if tree.Entries[i].Size == nil {
+			continue
 		}
+
+		for j := range docsExtensions {
+			if strings.HasSuffix(strings.ToLower(*tree.Entries[i].Path), docsExtensions[j]) {
+				totalBytes += *tree.Entries[i].Size
+				entries = append(entries, tree.Entries[i])
+				break
+			}
+		}
+
 	}
 
 	return entries, totalBytes
@@ -71,47 +97,35 @@ func filterToMarkdown(tree github.Tree) ([]github.TreeEntry, int) {
 
 // Project is repo with readme
 type Project struct {
-	RepoInfo    github.Repository
-	Readme      github.RepositoryContent
-	TreeEntries []github.TreeEntry
-	TotalBytes  int
+	Name       string
+	Forks      int
+	TotalBytes int
 }
 
 func getFileData(ctx context.Context, client *github.Client, repos []github.Repository) []Project {
 	var projects []Project
 
 	for i := range repos {
-		readme, response, err := client.Repositories.GetReadme(ctx, *(*repos[i].Owner).Login, *repos[i].Name, &github.RepositoryContentGetOptions{})
-
-		if response.StatusCode == 404 {
-			log.Println("No readme for", *repos[i].Name, "skipping")
-			continue
-		} else if err != nil {
-			log.Println("Failed to load readme:", err)
-			continue
-		}
-
-		latestCommit, response, err := client.Repositories.GetCommit(ctx, *(*repos[i].Owner).Login, *repos[i].Name, *repos[i].DefaultBranch)
+		latestCommit, _, err := client.Repositories.GetCommit(ctx, *(*repos[i].Owner).Login, *repos[i].Name, *repos[i].DefaultBranch)
 
 		if err != nil {
 			log.Println("Failed to load latest commit:", err)
 			continue
 		}
 
-		tree, response, err := client.Git.GetTree(ctx, *(*repos[i].Owner).Login, *repos[i].Name, *latestCommit.SHA, true)
+		tree, _, err := client.Git.GetTree(ctx, *(*repos[i].Owner).Login, *repos[i].Name, *latestCommit.SHA, true)
 
 		if err != nil {
 			log.Println("Failed to load latest commit:", err)
 			continue
 		}
 
-		entries, totalBytes := filterToMarkdown(*tree)
+		_, totalBytes := filterToDocs(*tree)
 
 		projects = append(projects, Project{
-			RepoInfo:    repos[i],
-			Readme:      *readme,
-			TreeEntries: entries,
-			TotalBytes:  totalBytes,
+			Name:       *repos[i].FullName,
+			Forks:      *repos[i].ForksCount,
+			TotalBytes: totalBytes,
 		})
 
 		log.Println(fmt.Sprintf("Retrieved language size for %s", *repos[i].Name))

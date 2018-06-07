@@ -13,6 +13,7 @@ import (
 	"time"
 
 	"github.com/BluntSporks/readability"
+	"github.com/giantswarm/retry-go"
 	"github.com/google/go-github/github"
 	"golang.org/x/oauth2"
 )
@@ -101,15 +102,33 @@ func filterToDocs(tree github.Tree) ([]github.TreeEntry, int) {
 func getReadabilityScore(ctx context.Context, client *github.Client, owner string, repo string, files []github.TreeEntry) float64 {
 	totalScore := float64(0)
 	n := float64(0)
+	if len(files) > 100 {
+		files = files[:100]
+	}
 	for i := range files {
 		if files[i].Content == nil {
-			newContent, _, _, err := client.Repositories.GetContents(ctx, owner, repo, *files[i].Path, &github.RepositoryContentGetOptions{})
-			for _, ok := err.(*github.RateLimitError); !ok; _, ok = err.(*github.RateLimitError) {
-				log.Println("Hit rate limit, retrying in 10 seconds")
-				time.Sleep(10 * time.Second)
+			var newContent *github.RepositoryContent
+			var err error
+			var response *github.Response
+			op := func() error {
+				newContent, _, response, err = client.Repositories.GetContents(ctx, owner, repo, *files[i].Path, &github.RepositoryContentGetOptions{})
+				if response.Rate.Remaining == 0 {
+					log.Println("Reached rate limit", response.Rate)
+					time.Sleep(time.Until(response.Rate.Reset.Time))
+				}
+				return err
 			}
 
-			if err != nil {
+			retry.Do(op,
+				retry.RetryChecker(func(err error) bool {
+					_, ok := err.(*github.RateLimitError)
+					return ok
+				}),
+				retry.Timeout(90*time.Minute),
+				retry.MaxTries(3),
+			)
+
+			if err != nil || newContent == nil {
 				log.Println("Failed to get file", err)
 				continue
 			}
@@ -129,7 +148,13 @@ func getReadabilityScore(ctx context.Context, client *github.Client, owner strin
 		}
 	}
 
-	return totalScore / n
+	result := totalScore / n
+
+	if math.IsNaN(result) {
+		return -1
+	}
+
+	return result
 }
 
 // Project is repo with readme
@@ -144,14 +169,50 @@ func getFileData(ctx context.Context, client *github.Client, repos []github.Repo
 	var projects []Project
 
 	for i := range repos {
-		latestCommit, _, err := client.Repositories.GetCommit(ctx, *(*repos[i].Owner).Login, *repos[i].Name, *repos[i].DefaultBranch)
+		var latestCommit *github.RepositoryCommit
+		var response *github.Response
+		var err error
+		op := func() error {
+			latestCommit, response, err = client.Repositories.GetCommit(ctx, *(*repos[i].Owner).Login, *repos[i].Name, *repos[i].DefaultBranch)
+			if response.Rate.Remaining == 0 {
+				log.Println("Reached rate limit", response.Rate)
+				time.Sleep(time.Until(response.Rate.Reset.Time))
+			}
+			return err
+		}
 
-		if err != nil {
+		retry.Do(op,
+			retry.RetryChecker(func(err error) bool {
+				_, ok := err.(*github.RateLimitError)
+				return ok
+			}),
+			retry.Timeout(60*time.Minute),
+			retry.MaxTries(2),
+		)
+
+		if err != nil || latestCommit == nil {
 			log.Println("Failed to load latest commit:", err)
 			continue
 		}
 
-		tree, _, err := client.Git.GetTree(ctx, *(*repos[i].Owner).Login, *repos[i].Name, *latestCommit.SHA, true)
+		var tree *github.Tree
+		op = func() error {
+			tree, response, err = client.Git.GetTree(ctx, *(*repos[i].Owner).Login, *repos[i].Name, *latestCommit.SHA, true)
+			if response.Rate.Remaining == 0 {
+				log.Println("Reached rate limit", response.Rate)
+				time.Sleep(time.Until(response.Rate.Reset.Time))
+			}
+			return err
+		}
+
+		retry.Do(op,
+			retry.RetryChecker(func(err error) bool {
+				_, ok := err.(*github.RateLimitError)
+				return ok
+			}),
+			retry.Timeout(90*time.Minute),
+			retry.MaxTries(3),
+		)
 
 		if err != nil {
 			log.Println("Failed to load latest commit:", err)

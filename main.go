@@ -22,7 +22,7 @@ import (
 var minimumStargazes = 150
 
 // Sample size
-var sampleSize = 1000
+var sampleSize = 500
 
 /*
  * Supported documentation extensions
@@ -112,7 +112,7 @@ func getReadabilityScore(ctx context.Context, client *github.Client, owner strin
 			var response *github.Response
 			op := func() error {
 				newContent, _, response, err = client.Repositories.GetContents(ctx, owner, repo, *files[i].Path, &github.RepositoryContentGetOptions{})
-				if response.Rate.Remaining == 0 {
+				if response != nil && response.Rate.Remaining == 0 {
 					log.Println("Reached rate limit", response.Rate)
 					time.Sleep(time.Until(response.Rate.Reset.Time))
 				}

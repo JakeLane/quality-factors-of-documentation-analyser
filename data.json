@@ -1,0 +1,5444 @@
+[
+	{
+		"Name": "tencentyun/qcloud-documents",
+		"Forks": 226,
+		"TotalBytes": 70478545,
+		"GunningFogIndex": 31.36352973045298
+	},
+	{
+		"Name": "renpy/renpy",
+		"Forks": 200,
+		"TotalBytes": 885428,
+		"GunningFogIndex": 9.038578609938163
+	},
+	{
+		"Name": "discourse/discourse",
+		"Forks": 6079,
+		"TotalBytes": 111322,
+		"GunningFogIndex": 15.45913458838964
+	},
+	{
+		"Name": "mandatoryprogrammer/TLDR",
+		"Forks": 49,
+		"TotalBytes": 6766,
+		"GunningFogIndex": 11.819554837248146
+	},
+	{
+		"Name": "NVIDIA/k8s-device-plugin",
+		"Forks": 47,
+		"TotalBytes": 40921,
+		"GunningFogIndex": 11.63853905788247
+	},
+	{
+		"Name": "sharding-sphere/sharding-sphere",
+		"Forks": 1792,
+		"TotalBytes": 65480,
+		"GunningFogIndex": 31.656872736276377
+	},
+	{
+		"Name": "americanexpress/jest-image-snapshot",
+		"Forks": 61,
+		"TotalBytes": 21346,
+		"GunningFogIndex": 13.009639442129831
+	},
+	{
+		"Name": "Roshanjossey/first-contributions",
+		"Forks": 5071,
+		"TotalBytes": 867648,
+		"GunningFogIndex": 24.099329051428168
+	},
+	{
+		"Name": "mozilla/addons-server",
+		"Forks": 293,
+		"TotalBytes": 195654,
+		"GunningFogIndex": 10.731054202745788
+	},
+	{
+		"Name": "chromium/chromium",
+		"Forks": 579,
+		"TotalBytes": 465681,
+		"GunningFogIndex": 13.873071685704435
+	},
+	{
+		"Name": "mozilla/addons-frontend",
+		"Forks": 145,
+		"TotalBytes": 52350,
+		"GunningFogIndex": 12.048745192362228
+	},
+	{
+		"Name": "Warewolf-ESB/Warewolf",
+		"Forks": 95,
+		"TotalBytes": 8901,
+		"GunningFogIndex": 15.127009174400694
+	},
+	{
+		"Name": "projectsend/projectsend",
+		"Forks": 133,
+		"TotalBytes": 451560,
+		"GunningFogIndex": 12.166635914803424
+	},
+	{
+		"Name": "githubschool/open-enrollment-classes-introduction-to-github",
+		"Forks": 741,
+		"TotalBytes": 193,
+		"GunningFogIndex": 10.918181818181818
+	},
+	{
+		"Name": "joncampbell123/dosbox-x",
+		"Forks": 50,
+		"TotalBytes": 258994,
+		"GunningFogIndex": 11.573620558784093
+	},
+	{
+		"Name": "godaddy/kubernetes-client",
+		"Forks": 79,
+		"TotalBytes": 4134168,
+		"GunningFogIndex": 13.487654107432721
+	},
+	{
+		"Name": "Simpleyyt/jekyll-theme-next",
+		"Forks": 273,
+		"TotalBytes": 35415,
+		"GunningFogIndex": 11.700515770750826
+	},
+	{
+		"Name": "crosstool-ng/crosstool-ng",
+		"Forks": 252,
+		"TotalBytes": 7788,
+		"GunningFogIndex": 16.62598109595597
+	},
+	{
+		"Name": "pingcap/tidb",
+		"Forks": 1845,
+		"TotalBytes": 40370,
+		"GunningFogIndex": 14.32349228689222
+	},
+	{
+		"Name": "rubberduck-vba/Rubberduck",
+		"Forks": 157,
+		"TotalBytes": 22270,
+		"GunningFogIndex": 16.080847917203744
+	},
+	{
+		"Name": "maxogden/hexbin",
+		"Forks": 174,
+		"TotalBytes": 2625,
+		"GunningFogIndex": 8.76498127340824
+	},
+	{
+		"Name": "egoist/vue-mugen-scroll",
+		"Forks": 47,
+		"TotalBytes": 3452,
+		"GunningFogIndex": 9.769708029197082
+	},
+	{
+		"Name": "romannurik/muzei",
+		"Forks": 858,
+		"TotalBytes": 1223,
+		"GunningFogIndex": 10.808610567514677
+	},
+	{
+		"Name": "rmosolgo/graphql-ruby",
+		"Forks": 382,
+		"TotalBytes": 340269,
+		"GunningFogIndex": 15.698277458727029
+	},
+	{
+		"Name": "apache/drill",
+		"Forks": 667,
+		"TotalBytes": 160472,
+		"GunningFogIndex": 13.175491463746642
+	},
+	{
+		"Name": "bkaradzic/bgfx",
+		"Forks": 808,
+		"TotalBytes": 93941,
+		"GunningFogIndex": 12.055818962608047
+	},
+	{
+		"Name": "betaflight/betaflight",
+		"Forks": 854,
+		"TotalBytes": 607743,
+		"GunningFogIndex": 19.598094949762938
+	},
+	{
+		"Name": "Chyroc/WechatSogou",
+		"Forks": 758,
+		"TotalBytes": 103349,
+		"GunningFogIndex": 17.001247217680508
+	},
+	{
+		"Name": "coq/coq",
+		"Forks": 251,
+		"TotalBytes": 1303695,
+		"GunningFogIndex": 9.960566666743805
+	},
+	{
+		"Name": "GoogleContainerTools/skaffold",
+		"Forks": 166,
+		"TotalBytes": 33106,
+		"GunningFogIndex": 13.212447120002373
+	},
+	{
+		"Name": "apache/hive",
+		"Forks": 1976,
+		"TotalBytes": 8827,
+		"GunningFogIndex": 13.574346904464496
+	},
+	{
+		"Name": "fatih/vim-go",
+		"Forks": 868,
+		"TotalBytes": 82504,
+		"GunningFogIndex": 8.04858061336209
+	},
+	{
+		"Name": "ant-design/ant-design-pro",
+		"Forks": 1743,
+		"TotalBytes": 80462,
+		"GunningFogIndex": 34.665907536124045
+	},
+	{
+		"Name": "projectacrn/acrn-hypervisor",
+		"Forks": 106,
+		"TotalBytes": 145602,
+		"GunningFogIndex": 10.954014614342091
+	},
+	{
+		"Name": "Thekla/thekla_atlas",
+		"Forks": 28,
+		"TotalBytes": 470,
+		"GunningFogIndex": 7.426666666666667
+	},
+	{
+		"Name": "renovateapp/renovate",
+		"Forks": 99,
+		"TotalBytes": 1094165,
+		"GunningFogIndex": 11.418991065940087
+	},
+	{
+		"Name": "ps2dev/ps2sdk",
+		"Forks": 39,
+		"TotalBytes": 5126,
+		"GunningFogIndex": 7.514083696761623
+	},
+	{
+		"Name": "rigetticomputing/grove",
+		"Forks": 59,
+		"TotalBytes": 87654,
+		"GunningFogIndex": 11.132812774496992
+	},
+	{
+		"Name": "top-think/framework",
+		"Forks": 570,
+		"TotalBytes": 6476,
+		"GunningFogIndex": 18.28246822742475
+	},
+	{
+		"Name": "cirosantilli/linux-kernel-module-cheat",
+		"Forks": 47,
+		"TotalBytes": 227301,
+		"GunningFogIndex": 8.413650443115706
+	},
+	{
+		"Name": "ApolloAuto/apollo",
+		"Forks": 2356,
+		"TotalBytes": 694883,
+		"GunningFogIndex": 14.45329076950675
+	},
+	{
+		"Name": "stdlib-js/stdlib",
+		"Forks": 52,
+		"TotalBytes": 7599083,
+		"GunningFogIndex": 9.361435028169197
+	},
+	{
+		"Name": "wuseal/JsonToKotlinClass",
+		"Forks": 56,
+		"TotalBytes": 8418,
+		"GunningFogIndex": 12.470591239012291
+	},
+	{
+		"Name": "qgis/QGIS",
+		"Forks": 1254,
+		"TotalBytes": 47511,
+		"GunningFogIndex": 15.375612142407467
+	},
+	{
+		"Name": "checkstyle/checkstyle",
+		"Forks": 6460,
+		"TotalBytes": 7496,
+		"GunningFogIndex": 15.839793733492158
+	},
+	{
+		"Name": "chef/bento",
+		"Forks": 748,
+		"TotalBytes": 72095,
+		"GunningFogIndex": 12.346336022915187
+	},
+	{
+		"Name": "ServiceStack/ServiceStack.Text",
+		"Forks": 570,
+		"TotalBytes": 30499,
+		"GunningFogIndex": 21.890023299475665
+	},
+	{
+		"Name": "chainer/chainer",
+		"Forks": 1025,
+		"TotalBytes": 397980,
+		"GunningFogIndex": 12.300565457354088
+	},
+	{
+		"Name": "RadhiFadlillah/shiori",
+		"Forks": 73,
+		"TotalBytes": 7407,
+		"GunningFogIndex": 9.202808766756847
+	},
+	{
+		"Name": "nodejs/node",
+		"Forks": 10492,
+		"TotalBytes": 10633284,
+		"GunningFogIndex": 11.430653171151684
+	},
+	{
+		"Name": "freebsd/freebsd",
+		"Forks": 1462,
+		"TotalBytes": 4157249,
+		"GunningFogIndex": 22.466298584212964
+	},
+	{
+		"Name": "Microsoft/BotFramework-WebChat",
+		"Forks": 431,
+		"TotalBytes": 44874,
+		"GunningFogIndex": 15.742503583298554
+	},
+	{
+		"Name": "rakshasa/rtorrent",
+		"Forks": 263,
+		"TotalBytes": 3844,
+		"GunningFogIndex": 9.213737028954421
+	},
+	{
+		"Name": "presidentbeef/brakeman",
+		"Forks": 477,
+		"TotalBytes": 54801,
+		"GunningFogIndex": 11.46332792205405
+	},
+	{
+		"Name": "CocoaPods/Specs",
+		"Forks": 7651,
+		"TotalBytes": 575,
+		"GunningFogIndex": 17.702564102564104
+	},
+	{
+		"Name": "gfx-rs/gfx",
+		"Forks": 254,
+		"TotalBytes": 23787,
+		"GunningFogIndex": 16.637648375507105
+	},
+	{
+		"Name": "openfaas/faas",
+		"Forks": 728,
+		"TotalBytes": 624893,
+		"GunningFogIndex": 16.613739708700372
+	},
+	{
+		"Name": "RobotLocomotion/drake",
+		"Forks": 550,
+		"TotalBytes": 213869,
+		"GunningFogIndex": 12.037490594830512
+	},
+	{
+		"Name": "socketry/async",
+		"Forks": 11,
+		"TotalBytes": 9612,
+		"GunningFogIndex": 9.872881734853566
+	},
+	{
+		"Name": "cockroachdb/cockroach",
+		"Forks": 1405,
+		"TotalBytes": 2068081,
+		"GunningFogIndex": 12.639657811214274
+	},
+	{
+		"Name": "sequelize/sequelize",
+		"Forks": 2489,
+		"TotalBytes": 208077,
+		"GunningFogIndex": 17.884982431368826
+	},
+	{
+		"Name": "OpenUserJS/OpenUserJS.org",
+		"Forks": 156,
+		"TotalBytes": 196310,
+		"GunningFogIndex": 23.30978982238968
+	},
+	{
+		"Name": "fossasia/badgeyay",
+		"Forks": 205,
+		"TotalBytes": 22282,
+		"GunningFogIndex": 11.857026280120463
+	},
+	{
+		"Name": "latex3/latex3",
+		"Forks": 34,
+		"TotalBytes": 25070,
+		"GunningFogIndex": 12.628762733572366
+	},
+	{
+		"Name": "prestodb/presto",
+		"Forks": 2552,
+		"TotalBytes": 828456,
+		"GunningFogIndex": 12.581720833576288
+	},
+	{
+		"Name": "PaddlePaddle/Paddle",
+		"Forks": 1926,
+		"TotalBytes": 1425134,
+		"GunningFogIndex": 13.34841224906235
+	},
+	{
+		"Name": "RoaringBitmap/CRoaring",
+		"Forks": 51,
+		"TotalBytes": 24345,
+		"GunningFogIndex": 12.67033723672548
+	},
+	{
+		"Name": "JetBrains/kotlin",
+		"Forks": 2563,
+		"TotalBytes": 520415,
+		"GunningFogIndex": 19.71507556215766
+	},
+	{
+		"Name": "geeeeeeeeek/git-recipes",
+		"Forks": 1826,
+		"TotalBytes": 241878,
+		"GunningFogIndex": 85.18651366279788
+	},
+	{
+		"Name": "CyC2018/Interview-Notebook",
+		"Forks": 6547,
+		"TotalBytes": 1055800,
+		"GunningFogIndex": 24.670830852664366
+	},
+	{
+		"Name": "heykeetae/Self-Attention-GAN",
+		"Forks": 32,
+		"TotalBytes": 3334,
+		"GunningFogIndex": 12.727272727272728
+	},
+	{
+		"Name": "dalen/puppetexplorer",
+		"Forks": 45,
+		"TotalBytes": 7163,
+		"GunningFogIndex": 16.827690374967762
+	},
+	{
+		"Name": "96boards/documentation",
+		"Forks": 174,
+		"TotalBytes": 1745927,
+		"GunningFogIndex": 19.42503150525637
+	},
+	{
+		"Name": "Charcoal-SE/SmokeDetector",
+		"Forks": 88,
+		"TotalBytes": 2852,
+		"GunningFogIndex": 8.091836734693878
+	},
+	{
+		"Name": "Samsung/TizenRT",
+		"Forks": 214,
+		"TotalBytes": 912354,
+		"GunningFogIndex": 13.913249006053288
+	},
+	{
+		"Name": "kentcdodds/dom-testing-library",
+		"Forks": 26,
+		"TotalBytes": 56729,
+		"GunningFogIndex": 11.138741967393761
+	},
+	{
+		"Name": "openstack/tempest",
+		"Forks": 435,
+		"TotalBytes": 135944,
+		"GunningFogIndex": 8.06143833141347
+	},
+	{
+		"Name": "ledermann/docker-rails",
+		"Forks": 36,
+		"TotalBytes": 6583,
+		"GunningFogIndex": 16.361963801405878
+	},
+	{
+		"Name": "udacity/course-collaboration-travel-plans",
+		"Forks": 6643,
+		"TotalBytes": 85,
+		"GunningFogIndex": 11.333333333333336
+	},
+	{
+		"Name": "status-im/status-react",
+		"Forks": 545,
+		"TotalBytes": 42700,
+		"GunningFogIndex": 10.72106467065625
+	},
+	{
+		"Name": "openshift/origin",
+		"Forks": 2872,
+		"TotalBytes": 20091199,
+		"GunningFogIndex": 13.43846804332759
+	},
+	{
+		"Name": "rs/SDWebImage",
+		"Forks": 5202,
+		"TotalBytes": 77432,
+		"GunningFogIndex": 19.87295637553926
+	},
+	{
+		"Name": "EmmyLua/IntelliJ-EmmyLua",
+		"Forks": 81,
+		"TotalBytes": 5951,
+		"GunningFogIndex": 24.64021287642783
+	},
+	{
+		"Name": "jhen0409/react-native-boilerplate",
+		"Forks": 79,
+		"TotalBytes": 2430,
+		"GunningFogIndex": 20.756725146198832
+	},
+	{
+		"Name": "remoteintech/remote-jobs",
+		"Forks": 646,
+		"TotalBytes": 377618,
+		"GunningFogIndex": 16.07591501921361
+	},
+	{
+		"Name": "wkentaro/pytorch-for-numpy-users",
+		"Forks": 9,
+		"TotalBytes": 7603,
+		"GunningFogIndex": 17.11809262166405
+	},
+	{
+		"Name": "apache/kudu",
+		"Forks": 167,
+		"TotalBytes": 718729,
+		"GunningFogIndex": 11.449061661249022
+	},
+	{
+		"Name": "cmangos/mangos-wotlk",
+		"Forks": 144,
+		"TotalBytes": 84544,
+		"GunningFogIndex": 12.180065745910372
+	},
+	{
+		"Name": "santosjorge/cufflinks",
+		"Forks": 131,
+		"TotalBytes": 8042,
+		"GunningFogIndex": 15.904260651629073
+	},
+	{
+		"Name": "react-navigation/react-navigation",
+		"Forks": 2604,
+		"TotalBytes": 15895,
+		"GunningFogIndex": 24.683048149664806
+	},
+	{
+		"Name": "libreswan/libreswan",
+		"Forks": 82,
+		"TotalBytes": 26953,
+		"GunningFogIndex": 15.010518252141205
+	},
+	{
+		"Name": "Tencent/phxsql",
+		"Forks": 498,
+		"TotalBytes": 34676,
+		"GunningFogIndex": 14.357094577050178
+	},
+	{
+		"Name": "bitnami/bitnami-docker-wordpress",
+		"Forks": 75,
+		"TotalBytes": 19914,
+		"GunningFogIndex": 10.61602397913857
+	},
+	{
+		"Name": "cmangos/mangos-classic",
+		"Forks": 299,
+		"TotalBytes": 72717,
+		"GunningFogIndex": 12.407744836704584
+	},
+	{
+		"Name": "msoos/cryptominisat",
+		"Forks": 76,
+		"TotalBytes": 4638,
+		"GunningFogIndex": 10.134072534072535
+	},
+	{
+		"Name": "python/mypy",
+		"Forks": 536,
+		"TotalBytes": 257049,
+		"GunningFogIndex": 9.949372372122218
+	},
+	{
+		"Name": "web-platform-tests/wpt",
+		"Forks": 1433,
+		"TotalBytes": 1475443,
+		"GunningFogIndex": 12.760184655697556
+	},
+	{
+		"Name": "zcash/zcash",
+		"Forks": 1228,
+		"TotalBytes": 538202,
+		"GunningFogIndex": 11.184908391113813
+	},
+	{
+		"Name": "calmm-js/partial.lenses",
+		"Forks": 30,
+		"TotalBytes": 278879,
+		"GunningFogIndex": 16.31553138801305
+	},
+	{
+		"Name": "Microsoft/MMdnn",
+		"Forks": 318,
+		"TotalBytes": 70517,
+		"GunningFogIndex": 11.68054022628651
+	},
+	{
+		"Name": "hashicorp/vault",
+		"Forks": 1390,
+		"TotalBytes": 2523584,
+		"GunningFogIndex": 14.108895030945865
+	},
+	{
+		"Name": "Microsoft/TypeScript",
+		"Forks": 5062,
+		"TotalBytes": 401199,
+		"GunningFogIndex": 25.483096598957193
+	},
+	{
+		"Name": "apache/systemml",
+		"Forks": 267,
+		"TotalBytes": 971551,
+		"GunningFogIndex": 12.55647867925065
+	},
+	{
+		"Name": "Microsoft/vscode",
+		"Forks": 6885,
+		"TotalBytes": 52511,
+		"GunningFogIndex": 12.99014937202742
+	},
+	{
+		"Name": "tedeh/jayson",
+		"Forks": 78,
+		"TotalBytes": 40273,
+		"GunningFogIndex": 17.361319503964005
+	},
+	{
+		"Name": "yuzu-emu/yuzu",
+		"Forks": 226,
+		"TotalBytes": 10399,
+		"GunningFogIndex": 12.842569090161707
+	},
+	{
+		"Name": "Tencent/phxqueue",
+		"Forks": 254,
+		"TotalBytes": 15697,
+		"GunningFogIndex": 15.612564586890052
+	},
+	{
+		"Name": "thinkcmf/thinkcmfapi",
+		"Forks": 78,
+		"TotalBytes": 2495,
+		"GunningFogIndex": 10.566526019690578
+	},
+	{
+		"Name": "ontio/ontology",
+		"Forks": 103,
+		"TotalBytes": 133297,
+		"GunningFogIndex": 16.34239892458509
+	},
+	{
+		"Name": "apache/incubator-mxnet",
+		"Forks": 5212,
+		"TotalBytes": 1521181,
+		"GunningFogIndex": 12.624797045248119
+	},
+	{
+		"Name": "rust-lang/rust",
+		"Forks": 4960,
+		"TotalBytes": 762889,
+		"GunningFogIndex": 11.812397369604021
+	},
+	{
+		"Name": "envoyproxy/envoy",
+		"Forks": 656,
+		"TotalBytes": 764680,
+		"GunningFogIndex": 8.492064951491708
+	},
+	{
+		"Name": "apache/kafka",
+		"Forks": 4959,
+		"TotalBytes": 45473,
+		"GunningFogIndex": 13.129717817674507
+	},
+	{
+		"Name": "cloudera/kudu",
+		"Forks": 229,
+		"TotalBytes": 718729,
+		"GunningFogIndex": 11.449061661249022
+	},
+	{
+		"Name": "craftcms/cms",
+		"Forks": 175,
+		"TotalBytes": 554910,
+		"GunningFogIndex": 12.158311713947828
+	},
+	{
+		"Name": "MoscaDotTo/Winapp2",
+		"Forks": 34,
+		"TotalBytes": 141944,
+		"GunningFogIndex": 13.158440744357737
+	},
+	{
+		"Name": "dotnet/corefx",
+		"Forks": 4090,
+		"TotalBytes": 542806,
+		"GunningFogIndex": 13.038659037429817
+	},
+	{
+		"Name": "vuejs/awesome-vue",
+		"Forks": 4608,
+		"TotalBytes": 263398,
+		"GunningFogIndex": 15.698576908902387
+	},
+	{
+		"Name": "abiosoft/ishell",
+		"Forks": 77,
+		"TotalBytes": 8105,
+		"GunningFogIndex": 9.507280118255728
+	},
+	{
+		"Name": "cupy/cupy",
+		"Forks": 154,
+		"TotalBytes": 94188,
+		"GunningFogIndex": 12.037206943682781
+	},
+	{
+		"Name": "uBlockOrigin/uAssets",
+		"Forks": 101,
+		"TotalBytes": 5285,
+		"GunningFogIndex": 10.004851419537635
+	},
+	{
+		"Name": "kiibohd/controller",
+		"Forks": 254,
+		"TotalBytes": 82713,
+		"GunningFogIndex": 12.223763566330707
+	},
+	{
+		"Name": "dotnet/machinelearning",
+		"Forks": 286,
+		"TotalBytes": 190456,
+		"GunningFogIndex": 13.326816523018275
+	},
+	{
+		"Name": "waynebaby/MVVM-Sidekick",
+		"Forks": 42,
+		"TotalBytes": 66335,
+		"GunningFogIndex": 13.555628638741005
+	},
+	{
+		"Name": "ghc/ghc",
+		"Forks": 508,
+		"TotalBytes": 1492500,
+		"GunningFogIndex": 11.10772197852579
+	},
+	{
+		"Name": "dealii/dealii",
+		"Forks": 305,
+		"TotalBytes": 43841,
+		"GunningFogIndex": 14.765926979710674
+	},
+	{
+		"Name": "Homebrew/brew",
+		"Forks": 2906,
+		"TotalBytes": 282176,
+		"GunningFogIndex": 11.854373893031731
+	},
+	{
+		"Name": "wireshark/wireshark",
+		"Forks": 566,
+		"TotalBytes": 15616,
+		"GunningFogIndex": 14.705812476188223
+	},
+	{
+		"Name": "NewbranLTD/gulp-server-io",
+		"Forks": 8,
+		"TotalBytes": 11918,
+		"GunningFogIndex": 11.403525244991506
+	},
+	{
+		"Name": "easysoft/zentaopms",
+		"Forks": 95,
+		"TotalBytes": 7617,
+		"GunningFogIndex": 23.57334008097166
+	},
+	{
+		"Name": "Kitware/CMake",
+		"Forks": 920,
+		"TotalBytes": 1327728,
+		"GunningFogIndex": 8.750698018706805
+	},
+	{
+		"Name": "grpc/grpc",
+		"Forks": 3484,
+		"TotalBytes": 412946,
+		"GunningFogIndex": 12.913384426368737
+	},
+	{
+		"Name": "ipfs/go-ipfs",
+		"Forks": 1003,
+		"TotalBytes": 217552,
+		"GunningFogIndex": 14.230540637769165
+	},
+	{
+		"Name": "WebKit/webkit",
+		"Forks": 1414,
+		"TotalBytes": 20387,
+		"GunningFogIndex": 15.18958476962675
+	},
+	{
+		"Name": "bokuweb/react-rnd",
+		"Forks": 104,
+		"TotalBytes": 18223,
+		"GunningFogIndex": 7.527281682887046
+	},
+	{
+		"Name": "KiCad/kicad-source-mirror",
+		"Forks": 219,
+		"TotalBytes": 136469,
+		"GunningFogIndex": 12.081477933975846
+	},
+	{
+		"Name": "ry/deno",
+		"Forks": 562,
+		"TotalBytes": 4139,
+		"GunningFogIndex": 5.728343751293622
+	},
+	{
+		"Name": "SchedMD/slurm",
+		"Forks": 228,
+		"TotalBytes": 33892,
+		"GunningFogIndex": 12.14097986939826
+	},
+	{
+		"Name": "Ccixyj/JBusDriver",
+		"Forks": 48,
+		"TotalBytes": 983,
+		"GunningFogIndex": 13.856097560975611
+	},
+	{
+		"Name": "wix/detox",
+		"Forks": 323,
+		"TotalBytes": 194006,
+		"GunningFogIndex": 13.447043513995832
+	},
+	{
+		"Name": "pod4g/hiper",
+		"Forks": 51,
+		"TotalBytes": 5594,
+		"GunningFogIndex": 18.488787185354692
+	},
+	{
+		"Name": "vuetifyjs/vuetify",
+		"Forks": 914,
+		"TotalBytes": 17727,
+		"GunningFogIndex": 14.317614248778268
+	},
+	{
+		"Name": "nvaccess/nvda",
+		"Forks": 204,
+		"TotalBytes": 14045,
+		"GunningFogIndex": 9.063400975807655
+	},
+	{
+		"Name": "nrepl/piggieback",
+		"Forks": 40,
+		"TotalBytes": 10784,
+		"GunningFogIndex": 11.192741570701067
+	},
+	{
+		"Name": "SleepyTrousers/EnderIO",
+		"Forks": 258,
+		"TotalBytes": 1861,
+		"GunningFogIndex": 11.252893772893772
+	},
+	{
+		"Name": "lukesampson/scoop",
+		"Forks": 463,
+		"TotalBytes": 3448,
+		"GunningFogIndex": 14.636641221374047
+	},
+	{
+		"Name": "code-dot-org/code-dot-org",
+		"Forks": 182,
+		"TotalBytes": 72880263,
+		"GunningFogIndex": 11.502418278126568
+	},
+	{
+		"Name": "lightningnetwork/lnd",
+		"Forks": 613,
+		"TotalBytes": 129798,
+		"GunningFogIndex": 15.751627694249475
+	},
+	{
+		"Name": "nemosminer/NemosMiner",
+		"Forks": 103,
+		"TotalBytes": 8045,
+		"GunningFogIndex": 12.022289257583376
+	},
+	{
+		"Name": "draios/sysdig",
+		"Forks": 467,
+		"TotalBytes": 40043,
+		"GunningFogIndex": 10.41935991265234
+	},
+	{
+		"Name": "instructure/canvas-lms",
+		"Forks": 1078,
+		"TotalBytes": 415370,
+		"GunningFogIndex": 14.733422220308906
+	},
+	{
+		"Name": "youzan/vant",
+		"Forks": 618,
+		"TotalBytes": 367175,
+		"GunningFogIndex": 45.36895070795257
+	},
+	{
+		"Name": "AlDanial/cloc",
+		"Forks": 341,
+		"TotalBytes": 136960,
+		"GunningFogIndex": 9.408389760608415
+	},
+	{
+		"Name": "bcit-ci/CodeIgniter4",
+		"Forks": 536,
+		"TotalBytes": 825106,
+		"GunningFogIndex": 12.488684569623938
+	},
+	{
+		"Name": "ant-design/ant-design",
+		"Forks": 8914,
+		"TotalBytes": 1131396,
+		"GunningFogIndex": 29.369954084666496
+	},
+	{
+		"Name": "ornicar/lila",
+		"Forks": 673,
+		"TotalBytes": 35865,
+		"GunningFogIndex": 14.908162339631929
+	},
+	{
+		"Name": "changsanjiang/SJVideoPlayer",
+		"Forks": 75,
+		"TotalBytes": 216490,
+		"GunningFogIndex": 26.185273504337157
+	},
+	{
+		"Name": "blaze/blaze",
+		"Forks": 318,
+		"TotalBytes": 329689,
+		"GunningFogIndex": 14.311951275218684
+	},
+	{
+		"Name": "iotexproject/iotex-core",
+		"Forks": 61,
+		"TotalBytes": 18845,
+		"GunningFogIndex": 13.085374188871285
+	},
+	{
+		"Name": "matplotlib/matplotlib",
+		"Forks": 3437,
+		"TotalBytes": 1099233,
+		"GunningFogIndex": 17.269296051587908
+	},
+	{
+		"Name": "awslabs/serverless-application-model",
+		"Forks": 544,
+		"TotalBytes": 102961,
+		"GunningFogIndex": 14.884056200473228
+	},
+	{
+		"Name": "yanghuan/CSharp.lua",
+		"Forks": 41,
+		"TotalBytes": 3153,
+		"GunningFogIndex": 7.7541624807447596
+	},
+	{
+		"Name": "samratashok/nishang",
+		"Forks": 842,
+		"TotalBytes": 19762,
+		"GunningFogIndex": 12.677898929308222
+	},
+	{
+		"Name": "winebarrel/ridgepole",
+		"Forks": 59,
+		"TotalBytes": 12429,
+		"GunningFogIndex": 13.373442263138642
+	},
+	{
+		"Name": "pytorch/pytorch",
+		"Forks": 3656,
+		"TotalBytes": 295955,
+		"GunningFogIndex": 13.23934997085618
+	},
+	{
+		"Name": "Shujian2015/FreeML",
+		"Forks": 322,
+		"TotalBytes": 16910,
+		"GunningFogIndex": 42.58522429041703
+	},
+	{
+		"Name": "graph-gophers/graphql-go",
+		"Forks": 151,
+		"TotalBytes": 2879,
+		"GunningFogIndex": 13.434163987138266
+	},
+	{
+		"Name": "PaddlePaddle/paddle-mobile",
+		"Forks": 730,
+		"TotalBytes": 1026,
+		"GunningFogIndex": 11.846666666666668
+	},
+	{
+		"Name": "githwxi/ATS-Postiats",
+		"Forks": 40,
+		"TotalBytes": 16004,
+		"GunningFogIndex": 14.348949933169536
+	},
+	{
+		"Name": "zabbix/zabbix-docker",
+		"Forks": 176,
+		"TotalBytes": 400202,
+		"GunningFogIndex": 9.791101683147449
+	},
+	{
+		"Name": "bokuweb/re-resizable",
+		"Forks": 61,
+		"TotalBytes": 14553,
+		"GunningFogIndex": 7.6180820277957295
+	},
+	{
+		"Name": "oppia/oppia",
+		"Forks": 642,
+		"TotalBytes": 7348,
+		"GunningFogIndex": 12.583821614046139
+	},
+	{
+		"Name": "deadpixi/sam",
+		"Forks": 23,
+		"TotalBytes": 14750,
+		"GunningFogIndex": 9.887512277497287
+	},
+	{
+		"Name": "elgalu/docker-selenium",
+		"Forks": 188,
+		"TotalBytes": 348753,
+		"GunningFogIndex": 14.448950823151542
+	},
+	{
+		"Name": "facebook/fboss",
+		"Forks": 142,
+		"TotalBytes": 43453,
+		"GunningFogIndex": 13.173365899790973
+	},
+	{
+		"Name": "mozilla/voice-web",
+		"Forks": 209,
+		"TotalBytes": 9994,
+		"GunningFogIndex": 14.318262740220604
+	},
+	{
+		"Name": "babel/website",
+		"Forks": 672,
+		"TotalBytes": 986648,
+		"GunningFogIndex": 21.674422595051944
+	},
+	{
+		"Name": "gzu-liyujiang/AndroidPicker",
+		"Forks": 1031,
+		"TotalBytes": 12774,
+		"GunningFogIndex": 25.21057593960197
+	},
+	{
+		"Name": "octokit/rest.js",
+		"Forks": 589,
+		"TotalBytes": 21879,
+		"GunningFogIndex": 11.40065094930667
+	},
+	{
+		"Name": "koolshare/ledesoft",
+		"Forks": 96,
+		"TotalBytes": 5666,
+		"GunningFogIndex": 37.81619639725809
+	},
+	{
+		"Name": "kbengine/kbengine",
+		"Forks": 1651,
+		"TotalBytes": 8365455,
+		"GunningFogIndex": 9.698042236298438
+	},
+	{
+		"Name": "scala/scala",
+		"Forks": 2436,
+		"TotalBytes": 410998,
+		"GunningFogIndex": 14.467671301972866
+	},
+	{
+		"Name": "pingcap/docs-cn",
+		"Forks": 275,
+		"TotalBytes": 653687,
+		"GunningFogIndex": 35.97255123959096
+	},
+	{
+		"Name": "aspnet/SignalR",
+		"Forks": 319,
+		"TotalBytes": 63684,
+		"GunningFogIndex": 16.757446686454568
+	},
+	{
+		"Name": "zhangdaiscott/jeecg",
+		"Forks": 747,
+		"TotalBytes": 29930,
+		"GunningFogIndex": 24.5492773866434
+	},
+	{
+		"Name": "conradsnicta/armadillo-code",
+		"Forks": 105,
+		"TotalBytes": 619,
+		"GunningFogIndex": 17.976470588235294
+	},
+	{
+		"Name": "JessYanCoding/MVPArms",
+		"Forks": 1367,
+		"TotalBytes": 29739,
+		"GunningFogIndex": 19.083747030927917
+	},
+	{
+		"Name": "civicrm/civicrm-core",
+		"Forks": 631,
+		"TotalBytes": 554345,
+		"GunningFogIndex": 17.075488448539197
+	},
+	{
+		"Name": "jossmac/react-scrolllock",
+		"Forks": 16,
+		"TotalBytes": 792,
+		"GunningFogIndex": 13.600000000000001
+	},
+	{
+		"Name": "iost-official/Go-IOS-Protocol",
+		"Forks": 30,
+		"TotalBytes": 11404,
+		"GunningFogIndex": 13.500358459457146
+	},
+	{
+		"Name": "ballerina-platform/ballerina-lang",
+		"Forks": 320,
+		"TotalBytes": 390175,
+		"GunningFogIndex": 13.37048763654766
+	},
+	{
+		"Name": "antvis/g6",
+		"Forks": 98,
+		"TotalBytes": 26145,
+		"GunningFogIndex": 15.79251252242322
+	},
+	{
+		"Name": "Kyubyong/nlp_tasks",
+		"Forks": 340,
+		"TotalBytes": 40952,
+		"GunningFogIndex": 36.75642302902577
+	},
+	{
+		"Name": "openshift/openshift-docs",
+		"Forks": 535,
+		"TotalBytes": 18110822,
+		"GunningFogIndex": 13.768882520993467
+	},
+	{
+		"Name": "HDInnovations/UNIT3D",
+		"Forks": 47,
+		"TotalBytes": 25413,
+		"GunningFogIndex": 14.880589323368302
+	},
+	{
+		"Name": "capistrano/sshkit",
+		"Forks": 239,
+		"TotalBytes": 72779,
+		"GunningFogIndex": 13.713112754929696
+	},
+	{
+		"Name": "webcamoid/webcamoid",
+		"Forks": 31,
+		"TotalBytes": 13723,
+		"GunningFogIndex": 12.127427207769994
+	},
+	{
+		"Name": "jimmy201602/webterminal",
+		"Forks": 133,
+		"TotalBytes": 28541,
+		"GunningFogIndex": 28.315213067753028
+	},
+	{
+		"Name": "databricks/mlflow",
+		"Forks": 56,
+		"TotalBytes": 221478,
+		"GunningFogIndex": 11.650330602419393
+	},
+	{
+		"Name": "flutter/flutter",
+		"Forks": 2333,
+		"TotalBytes": 73967,
+		"GunningFogIndex": 11.275207399448801
+	},
+	{
+		"Name": "Gnucash/gnucash",
+		"Forks": 371,
+		"TotalBytes": 12300,
+		"GunningFogIndex": 12.024392324093817
+	},
+	{
+		"Name": "streetmix/streetmix",
+		"Forks": 112,
+		"TotalBytes": 21072,
+		"GunningFogIndex": 16.131714958124174
+	},
+	{
+		"Name": "cornellius-gp/gpytorch",
+		"Forks": 49,
+		"TotalBytes": 6422,
+		"GunningFogIndex": 13.570170951294063
+	},
+	{
+		"Name": "prakhar1989/react-tags",
+		"Forks": 276,
+		"TotalBytes": 17292,
+		"GunningFogIndex": 8.903117014146815
+	},
+	{
+		"Name": "mosa/MOSA-Project",
+		"Forks": 59,
+		"TotalBytes": 18644,
+		"GunningFogIndex": 13.014186849379314
+	},
+	{
+		"Name": "hubcarl/easywebpack",
+		"Forks": 22,
+		"TotalBytes": 27246,
+		"GunningFogIndex": 12.623093114947826
+	},
+	{
+		"Name": "tendermint/tendermint",
+		"Forks": 394,
+		"TotalBytes": 380994,
+		"GunningFogIndex": 16.321169940702564
+	},
+	{
+		"Name": "GetStream/Winds",
+		"Forks": 299,
+		"TotalBytes": 17724,
+		"GunningFogIndex": 10.235738416660316
+	},
+	{
+		"Name": "DiegoCatalano/Catalano-Framework",
+		"Forks": 64,
+		"TotalBytes": 1276,
+		"GunningFogIndex": 20.46315789473684
+	},
+	{
+		"Name": "localvoid/ivi",
+		"Forks": 4,
+		"TotalBytes": 70696,
+		"GunningFogIndex": 17.060213016359786
+	},
+	{
+		"Name": "LCTT/TranslateProject",
+		"Forks": 104,
+		"TotalBytes": 30294816,
+		"GunningFogIndex": 42.44173685729503
+	},
+	{
+		"Name": "randy3k/rtichoke",
+		"Forks": 9,
+		"TotalBytes": 8819,
+		"GunningFogIndex": 18.58066413684671
+	},
+	{
+		"Name": "uber/kepler.gl",
+		"Forks": 113,
+		"TotalBytes": 42851,
+		"GunningFogIndex": 11.022761004919605
+	},
+	{
+		"Name": "Bakumon/NumberAnimTextView",
+		"Forks": 77,
+		"TotalBytes": 776,
+		"GunningFogIndex": 17.96883116883117
+	},
+	{
+		"Name": "angular/angular",
+		"Forks": 8937,
+		"TotalBytes": 2222147,
+		"GunningFogIndex": 13.341721290944323
+	},
+	{
+		"Name": "zulip/zulip",
+		"Forks": 2238,
+		"TotalBytes": 1377738,
+		"GunningFogIndex": 12.43161297436409
+	},
+	{
+		"Name": "allinurl/goaccess",
+		"Forks": 509,
+		"TotalBytes": 18778,
+		"GunningFogIndex": 10.324375113556727
+	},
+	{
+		"Name": "amethyst/amethyst",
+		"Forks": 120,
+		"TotalBytes": 100682,
+		"GunningFogIndex": 11.422745238606662
+	},
+	{
+		"Name": "docker/docker.github.io",
+		"Forks": 2453,
+		"TotalBytes": 6669432,
+		"GunningFogIndex": 13.310793138102351
+	},
+	{
+		"Name": "elastic/logstash-docker",
+		"Forks": 65,
+		"TotalBytes": 1157,
+		"GunningFogIndex": 9.916901408450705
+	},
+	{
+		"Name": "chyingp/nodejs-learning-guide",
+		"Forks": 451,
+		"TotalBytes": 354935,
+		"GunningFogIndex": 38.639527949039156
+	},
+	{
+		"Name": "darknessomi/musicbox",
+		"Forks": 1245,
+		"TotalBytes": 12689,
+		"GunningFogIndex": 8.440420465679892
+	},
+	{
+		"Name": "mac-cain13/R.swift",
+		"Forks": 308,
+		"TotalBytes": 38696,
+		"GunningFogIndex": 14.035880701014564
+	},
+	{
+		"Name": "Automattic/wp-calypso",
+		"Forks": 1404,
+		"TotalBytes": 1218748,
+		"GunningFogIndex": 15.36527253155343
+	},
+	{
+		"Name": "OCA/web",
+		"Forks": 643,
+		"TotalBytes": 57874,
+		"GunningFogIndex": 10.969882596786348
+	},
+	{
+		"Name": "denverdino/aliyungo",
+		"Forks": 185,
+		"TotalBytes": 12448,
+		"GunningFogIndex": 35.1488811841753
+	},
+	{
+		"Name": "KDE/heaptrack",
+		"Forks": 38,
+		"TotalBytes": 8397,
+		"GunningFogIndex": 15.124559912951453
+	},
+	{
+		"Name": "kubernetes/website",
+		"Forks": 2647,
+		"TotalBytes": 6375794,
+		"GunningFogIndex": 38.38674867531495
+	},
+	{
+		"Name": "opencog/opencog",
+		"Forks": 604,
+		"TotalBytes": 445963,
+		"GunningFogIndex": 12.095800629065725
+	},
+	{
+		"Name": "kubernetes/kubernetes",
+		"Forks": 13059,
+		"TotalBytes": 2961283,
+		"GunningFogIndex": 11.835992556146088
+	},
+	{
+		"Name": "lihaoyi/mill",
+		"Forks": 90,
+		"TotalBytes": 99171,
+		"GunningFogIndex": 12.030899279968791
+	},
+	{
+		"Name": "keystonejs/keystone",
+		"Forks": 2022,
+		"TotalBytes": 333083,
+		"GunningFogIndex": 12.416564730267583
+	},
+	{
+		"Name": "apache/incubator-superset",
+		"Forks": 3329,
+		"TotalBytes": 629361,
+		"GunningFogIndex": 84.06801949855985
+	},
+	{
+		"Name": "facebook/openr",
+		"Forks": 131,
+		"TotalBytes": 88896,
+		"GunningFogIndex": 11.61870917999216
+	},
+	{
+		"Name": "orx/orx",
+		"Forks": 22,
+		"TotalBytes": 17668,
+		"GunningFogIndex": 12.782379589890319
+	},
+	{
+		"Name": "OracleChain/EOSDevHelper",
+		"Forks": 32,
+		"TotalBytes": 8653,
+		"GunningFogIndex": 22.508888717275468
+	},
+	{
+		"Name": "sloria/webargs",
+		"Forks": 93,
+		"TotalBytes": 61657,
+		"GunningFogIndex": 13.50625548216962
+	},
+	{
+		"Name": "PowerShell/PowerShell",
+		"Forks": 1603,
+		"TotalBytes": 397259,
+		"GunningFogIndex": 16.992634821534043
+	},
+	{
+		"Name": "ruibaby/halo",
+		"Forks": 94,
+		"TotalBytes": 14264,
+		"GunningFogIndex": 140.34759509496564
+	},
+	{
+		"Name": "zhongyang219/TrafficMonitor",
+		"Forks": 145,
+		"TotalBytes": 30128,
+		"GunningFogIndex": 30.908640000522926
+	},
+	{
+		"Name": "filebrowser/filebrowser",
+		"Forks": 257,
+		"TotalBytes": 4929,
+		"GunningFogIndex": 9.51064138677372
+	},
+	{
+		"Name": "ElemeFE/element",
+		"Forks": 5225,
+		"TotalBytes": 1749383,
+		"GunningFogIndex": 27.73523803646388
+	},
+	{
+		"Name": "Al-Azif/ps4-exploit-host",
+		"Forks": 100,
+		"TotalBytes": 8641,
+		"GunningFogIndex": 7.2589099722051875
+	},
+	{
+		"Name": "gin-contrib/sessions",
+		"Forks": 40,
+		"TotalBytes": 4350,
+		"GunningFogIndex": 81.98957816377172
+	},
+	{
+		"Name": "pritunl/pritunl",
+		"Forks": 273,
+		"TotalBytes": 14323,
+		"GunningFogIndex": 20.547343365679072
+	},
+	{
+		"Name": "webcpp/hi-nginx",
+		"Forks": 51,
+		"TotalBytes": 112473,
+		"GunningFogIndex": 18.558290871544187
+	},
+	{
+		"Name": "elastic/elasticsearch-docker",
+		"Forks": 173,
+		"TotalBytes": 2489,
+		"GunningFogIndex": 8.301410975335026
+	},
+	{
+		"Name": "alexa/skill-sample-nodejs-fact",
+		"Forks": 661,
+		"TotalBytes": 45954,
+		"GunningFogIndex": 10.464374630597263
+	},
+	{
+		"Name": "SwifterSwift/SwifterSwift",
+		"Forks": 555,
+		"TotalBytes": 110402,
+		"GunningFogIndex": 16.697452924672447
+	},
+	{
+		"Name": "lettier/gifcurry",
+		"Forks": 13,
+		"TotalBytes": 19931,
+		"GunningFogIndex": 12.266789756865135
+	},
+	{
+		"Name": "tokio-rs/tokio",
+		"Forks": 104,
+		"TotalBytes": 20257,
+		"GunningFogIndex": 8.864099866282729
+	},
+	{
+		"Name": "davidosomething/dotfiles",
+		"Forks": 12,
+		"TotalBytes": 31501,
+		"GunningFogIndex": 19.536424054041824
+	},
+	{
+		"Name": "AElfProject/AElf",
+		"Forks": 96,
+		"TotalBytes": 26280,
+		"GunningFogIndex": 12.679057627978485
+	},
+	{
+		"Name": "WorldBrain/Memex",
+		"Forks": 61,
+		"TotalBytes": 43708,
+		"GunningFogIndex": 10.22023677777644
+	},
+	{
+		"Name": "iamkun/dayjs",
+		"Forks": 403,
+		"TotalBytes": 117632,
+		"GunningFogIndex": 26.5741038074583
+	},
+	{
+		"Name": "undertow-io/undertow",
+		"Forks": 592,
+		"TotalBytes": 491,
+		"GunningFogIndex": 14.057142857142859
+	},
+	{
+		"Name": "rasbt/python-machine-learning-book-2nd-edition",
+		"Forks": 575,
+		"TotalBytes": 59898,
+		"GunningFogIndex": 20.735611129510954
+	},
+	{
+		"Name": "jenkinsci/blueocean-plugin",
+		"Forks": 333,
+		"TotalBytes": 146027,
+		"GunningFogIndex": 15.309344527224354
+	},
+	{
+		"Name": "opencv/opencv",
+		"Forks": 18122,
+		"TotalBytes": 56630,
+		"GunningFogIndex": 11.197118483043058
+	},
+	{
+		"Name": "VCVRack/Rack",
+		"Forks": 164,
+		"TotalBytes": 9915,
+		"GunningFogIndex": 15.583579604177823
+	},
+	{
+		"Name": "slowmist/eos-bp-nodes-security-checklist",
+		"Forks": 20,
+		"TotalBytes": 25322,
+		"GunningFogIndex": 10.960812000629737
+	},
+	{
+		"Name": "LineageOS/lineage_wiki",
+		"Forks": 244,
+		"TotalBytes": 273130,
+		"GunningFogIndex": 9.267564157083372
+	},
+	{
+		"Name": "node-nock/nock",
+		"Forks": 479,
+		"TotalBytes": 46175,
+		"GunningFogIndex": 18.390974978696384
+	},
+	{
+		"Name": "chapel-lang/chapel",
+		"Forks": 185,
+		"TotalBytes": 1524089,
+		"GunningFogIndex": 11.807594651942539
+	},
+	{
+		"Name": "dkzwm/SmoothRefreshLayout",
+		"Forks": 140,
+		"TotalBytes": 83956,
+		"GunningFogIndex": 28.41807755350938
+	},
+	{
+		"Name": "EliasKotlyar/Xiaomi-Dafang-Hacks",
+		"Forks": 152,
+		"TotalBytes": 36994,
+		"GunningFogIndex": 23.854982597177475
+	},
+	{
+		"Name": "Azure/azure-powershell",
+		"Forks": 1082,
+		"TotalBytes": 11925062,
+		"GunningFogIndex": 23.441093406753588
+	},
+	{
+		"Name": "jlord/patchwork",
+		"Forks": 20042,
+		"TotalBytes": 3668,
+		"GunningFogIndex": 15.322779566782478
+	},
+	{
+		"Name": "TechEmpower/FrameworkBenchmarks",
+		"Forks": 1061,
+		"TotalBytes": 224430,
+		"GunningFogIndex": 18.690539709570167
+	},
+	{
+		"Name": "eamodio/vscode-gitlens",
+		"Forks": 82,
+		"TotalBytes": 216458,
+		"GunningFogIndex": 27.600474788142947
+	},
+	{
+		"Name": "jvm-profiling-tools/async-profiler",
+		"Forks": 93,
+		"TotalBytes": 16256,
+		"GunningFogIndex": 13.270156099538623
+	},
+	{
+		"Name": "apache/incubator-dubbo-spring-boot-project",
+		"Forks": 356,
+		"TotalBytes": 53490,
+		"GunningFogIndex": 20.17255287654862
+	},
+	{
+		"Name": "schemacrawler/SchemaCrawler",
+		"Forks": 72,
+		"TotalBytes": 187917,
+		"GunningFogIndex": 13.23392699691575
+	},
+	{
+		"Name": "JakeWharton/SdkSearch",
+		"Forks": 98,
+		"TotalBytes": 5584,
+		"GunningFogIndex": 13.133516043413831
+	},
+	{
+		"Name": "RubyLouvre/anu",
+		"Forks": 144,
+		"TotalBytes": 31388,
+		"GunningFogIndex": 26.350959358493665
+	},
+	{
+		"Name": "neovim/neovim",
+		"Forks": 1969,
+		"TotalBytes": 52462,
+		"GunningFogIndex": 17.274318911723874
+	},
+	{
+		"Name": "influxdata/influxdb",
+		"Forks": 1952,
+		"TotalBytes": 405241,
+		"GunningFogIndex": 14.700283906902449
+	},
+	{
+		"Name": "Tencent/ncnn",
+		"Forks": 959,
+		"TotalBytes": 10970,
+		"GunningFogIndex": 20.588856456119718
+	},
+	{
+		"Name": "ssbc/patchwork",
+		"Forks": 214,
+		"TotalBytes": 7988,
+		"GunningFogIndex": 15.127681776705932
+	},
+	{
+		"Name": "deeplearning4j/deeplearning4j",
+		"Forks": 4289,
+		"TotalBytes": 1681178,
+		"GunningFogIndex": 11.696800743298086
+	},
+	{
+		"Name": "tensorflow/magenta-js",
+		"Forks": 14,
+		"TotalBytes": 12660,
+		"GunningFogIndex": 15.043462908379658
+	},
+	{
+		"Name": "mapbox/mapbox-gl-native",
+		"Forks": 826,
+		"TotalBytes": 543272,
+		"GunningFogIndex": 13.696509831823528
+	},
+	{
+		"Name": "heptio/contour",
+		"Forks": 84,
+		"TotalBytes": 99782,
+		"GunningFogIndex": 11.675474212156981
+	},
+	{
+		"Name": "TykTechnologies/tyk",
+		"Forks": 472,
+		"TotalBytes": 371731,
+		"GunningFogIndex": 14.140184428369782
+	},
+	{
+		"Name": "python/cpython",
+		"Forks": 5588,
+		"TotalBytes": 10014113,
+		"GunningFogIndex": 9.483552980201312
+	},
+	{
+		"Name": "ElemeFE/page-skeleton-webpack-plugin",
+		"Forks": 23,
+		"TotalBytes": 37766,
+		"GunningFogIndex": 16.32796318332622
+	},
+	{
+		"Name": "openbsd/src",
+		"Forks": 161,
+		"TotalBytes": 19884054,
+		"GunningFogIndex": 22.676059182857923
+	},
+	{
+		"Name": "llvm-mirror/clang",
+		"Forks": 1113,
+		"TotalBytes": 2088000,
+		"GunningFogIndex": 11.684322179831305
+	},
+	{
+		"Name": "purescript/documentation",
+		"Forks": 110,
+		"TotalBytes": 222223,
+		"GunningFogIndex": 12.288007753219926
+	},
+	{
+		"Name": "cxxxr/lem",
+		"Forks": 22,
+		"TotalBytes": 31379,
+		"GunningFogIndex": 55.932104041530955
+	},
+	{
+		"Name": "google/protobuf",
+		"Forks": 7521,
+		"TotalBytes": 108708,
+		"GunningFogIndex": 13.051007809109791
+	},
+	{
+		"Name": "influxdata/chronograf",
+		"Forks": 132,
+		"TotalBytes": 934074,
+		"GunningFogIndex": 12.412514547918768
+	},
+	{
+		"Name": "facebook/rocksdb",
+		"Forks": 2352,
+		"TotalBytes": 134036,
+		"GunningFogIndex": 9.497509875585447
+	},
+	{
+		"Name": "yajra/laravel-oci8",
+		"Forks": 118,
+		"TotalBytes": 11396,
+		"GunningFogIndex": 12.729653233118343
+	},
+	{
+		"Name": "Huachao/vscode-restclient",
+		"Forks": 46,
+		"TotalBytes": 57968,
+		"GunningFogIndex": 13.835769828700926
+	},
+	{
+		"Name": "miniflux/miniflux",
+		"Forks": 39,
+		"TotalBytes": 126885,
+		"GunningFogIndex": 13.191043452164982
+	},
+	{
+		"Name": "yuya373/emacs-slack",
+		"Forks": 58,
+		"TotalBytes": 6019,
+		"GunningFogIndex": 7.747442928542483
+	},
+	{
+		"Name": "apache/beam",
+		"Forks": 1177,
+		"TotalBytes": 34989,
+		"GunningFogIndex": 12.17113965408577
+	},
+	{
+		"Name": "PanJiaChen/vue-element-admin",
+		"Forks": 4188,
+		"TotalBytes": 14755,
+		"GunningFogIndex": 35.04294096076274
+	},
+	{
+		"Name": "apple/swift",
+		"Forks": 6941,
+		"TotalBytes": 2501320,
+		"GunningFogIndex": 12.727312537102302
+	},
+	{
+		"Name": "alibaba/otter",
+		"Forks": 1328,
+		"TotalBytes": 7057,
+		"GunningFogIndex": 14.182720953326715
+	},
+	{
+		"Name": "ElemeFE/mint-ui",
+		"Forks": 2377,
+		"TotalBytes": 22559,
+		"GunningFogIndex": 18.50867792397705
+	},
+	{
+		"Name": "kundajelab/dragonn",
+		"Forks": 53,
+		"TotalBytes": 5672,
+		"GunningFogIndex": 17.066484611928566
+	},
+	{
+		"Name": "edp963/wormhole",
+		"Forks": 94,
+		"TotalBytes": 91629,
+		"GunningFogIndex": 50.88059090548367
+	},
+	{
+		"Name": "dotnetcore/Util",
+		"Forks": 366,
+		"TotalBytes": 77262,
+		"GunningFogIndex": 16.58727324878602
+	},
+	{
+		"Name": "archlinuxcn/repo",
+		"Forks": 75,
+		"TotalBytes": 18359,
+		"GunningFogIndex": 15.018185737250015
+	},
+	{
+		"Name": "MetaMask/metamask-extension",
+		"Forks": 547,
+		"TotalBytes": 173645,
+		"GunningFogIndex": 14.070552758837866
+	},
+	{
+		"Name": "apache/incubator-weex",
+		"Forks": 1289,
+		"TotalBytes": 18871,
+		"GunningFogIndex": 9.395524474312682
+	},
+	{
+		"Name": "Col-E/Recaf",
+		"Forks": 31,
+		"TotalBytes": 2296,
+		"GunningFogIndex": 12.145378787878789
+	},
+	{
+		"Name": "SpaceVim/SpaceVim",
+		"Forks": 579,
+		"TotalBytes": 543777,
+		"GunningFogIndex": 20.619377350186898
+	},
+	{
+		"Name": "WordPress/gutenberg",
+		"Forks": 653,
+		"TotalBytes": 361900,
+		"GunningFogIndex": 15.792858760209278
+	},
+	{
+		"Name": "phase2/particle",
+		"Forks": 80,
+		"TotalBytes": 16002,
+		"GunningFogIndex": 12.118952966252936
+	},
+	{
+		"Name": "okcoin-okex/API-docs-OKEx.com",
+		"Forks": 112,
+		"TotalBytes": 198733,
+		"GunningFogIndex": 40.20902694203099
+	},
+	{
+		"Name": "groonga/groonga",
+		"Forks": 104,
+		"TotalBytes": 1324045,
+		"GunningFogIndex": 12.303636499608421
+	},
+	{
+		"Name": "NG-ZORRO/ng-zorro-antd",
+		"Forks": 583,
+		"TotalBytes": 475952,
+		"GunningFogIndex": 16.461936120898184
+	},
+	{
+		"Name": "kfix/MacPin",
+		"Forks": 22,
+		"TotalBytes": 18894,
+		"GunningFogIndex": 12.527400423502993
+	},
+	{
+		"Name": "OpenNMS/opennms",
+		"Forks": 369,
+		"TotalBytes": 1673478,
+		"GunningFogIndex": 15.788472709352728
+	},
+	{
+		"Name": "skydive-project/skydive",
+		"Forks": 149,
+		"TotalBytes": 28494,
+		"GunningFogIndex": 20.941779813029488
+	},
+	{
+		"Name": "aben1188/awesome-wepy",
+		"Forks": 178,
+		"TotalBytes": 17078,
+		"GunningFogIndex": 219.00279441117766
+	},
+	{
+		"Name": "Bakumon/StatusLayoutManager",
+		"Forks": 59,
+		"TotalBytes": 5220,
+		"GunningFogIndex": 25.97834586466165
+	},
+	{
+		"Name": "360Controller/360Controller",
+		"Forks": 254,
+		"TotalBytes": 22788,
+		"GunningFogIndex": 10.794673804952314
+	},
+	{
+		"Name": "Tencent/phxpaxos",
+		"Forks": 548,
+		"TotalBytes": 40003,
+		"GunningFogIndex": 23.88483972339313
+	},
+	{
+		"Name": "ChromeDevTools/debugger-protocol-viewer",
+		"Forks": 71,
+		"TotalBytes": 2556,
+		"GunningFogIndex": 6.0419821066779
+	},
+	{
+		"Name": "v8/v8",
+		"Forks": 1967,
+		"TotalBytes": 51308,
+		"GunningFogIndex": 11.588374016684785
+	},
+	{
+		"Name": "xitu/gold-miner",
+		"Forks": 2519,
+		"TotalBytes": 18409442,
+		"GunningFogIndex": 47.14947680885796
+	},
+	{
+		"Name": "ChromeDevTools/devtools-protocol",
+		"Forks": 31,
+		"TotalBytes": 264035,
+		"GunningFogIndex": 12.919727717219743
+	},
+	{
+		"Name": "mipengine/mip",
+		"Forks": 57,
+		"TotalBytes": 25230,
+		"GunningFogIndex": 24.585124260460773
+	},
+	{
+		"Name": "tc39/ecma262",
+		"Forks": 475,
+		"TotalBytes": 30728,
+		"GunningFogIndex": 14.243150506628558
+	},
+	{
+		"Name": "istio/istio",
+		"Forks": 1162,
+		"TotalBytes": 210403,
+		"GunningFogIndex": 15.356918593827713
+	},
+	{
+		"Name": "minetest/minetest_game",
+		"Forks": 348,
+		"TotalBytes": 1502,
+		"GunningFogIndex": 21.998483412322276
+	},
+	{
+		"Name": "turtlecoin/turtlecoin",
+		"Forks": 102,
+		"TotalBytes": 133119,
+		"GunningFogIndex": 9.581759723859875
+	},
+	{
+		"Name": "plotly/plotly.js",
+		"Forks": 944,
+		"TotalBytes": 107921,
+		"GunningFogIndex": 13.955748376972144
+	},
+	{
+		"Name": "signalapp/Signal-Android",
+		"Forks": 2575,
+		"TotalBytes": 17033,
+		"GunningFogIndex": 11.414644301566032
+	},
+	{
+		"Name": "emeryberger/CSrankings",
+		"Forks": 437,
+		"TotalBytes": 7816,
+		"GunningFogIndex": 11.23255596059357
+	},
+	{
+		"Name": "mamedev/mame",
+		"Forks": 718,
+		"TotalBytes": 1640681,
+		"GunningFogIndex": 14.140920263101522
+	},
+	{
+		"Name": "vim/vim",
+		"Forks": 1628,
+		"TotalBytes": 7807,
+		"GunningFogIndex": 8.064225365949504
+	},
+	{
+		"Name": "apache/mynewt-core",
+		"Forks": 177,
+		"TotalBytes": 545383,
+		"GunningFogIndex": 9.855872731101377
+	},
+	{
+		"Name": "tensorflow/tensor2tensor",
+		"Forks": 981,
+		"TotalBytes": 88542,
+		"GunningFogIndex": 13.060741641451315
+	},
+	{
+		"Name": "bazelbuild/bazel",
+		"Forks": 1420,
+		"TotalBytes": 986582,
+		"GunningFogIndex": 12.527276048133231
+	},
+	{
+		"Name": "gogs/gogs",
+		"Forks": 2949,
+		"TotalBytes": 313619,
+		"GunningFogIndex": 14.126897239464608
+	},
+	{
+		"Name": "Provenance-Emu/Provenance",
+		"Forks": 478,
+		"TotalBytes": 738368,
+		"GunningFogIndex": 12.52179941362063
+	},
+	{
+		"Name": "alibaba/AliOS-Things",
+		"Forks": 477,
+		"TotalBytes": 458825,
+		"GunningFogIndex": 36.04072498117119
+	},
+	{
+		"Name": "antononcube/MathematicaForPrediction",
+		"Forks": 55,
+		"TotalBytes": 443820,
+		"GunningFogIndex": 15.89669826512236
+	},
+	{
+		"Name": "charlesq34/pointnet2",
+		"Forks": 135,
+		"TotalBytes": 8754,
+		"GunningFogIndex": 10.85017225502927
+	},
+	{
+		"Name": "lazyprogrammer/machine_learning_examples",
+		"Forks": 1907,
+		"TotalBytes": 2920,
+		"GunningFogIndex": 84.78435754189945
+	},
+	{
+		"Name": "fusionpbx/fusionpbx",
+		"Forks": 251,
+		"TotalBytes": 9728,
+		"GunningFogIndex": 11.57798987059894
+	},
+	{
+		"Name": "skycoin/skycoin",
+		"Forks": 218,
+		"TotalBytes": 472535,
+		"GunningFogIndex": 11.853337692687328
+	},
+	{
+		"Name": "collinbarrett/FilterLists",
+		"Forks": 22,
+		"TotalBytes": 10098,
+		"GunningFogIndex": 15.662704193067333
+	},
+	{
+		"Name": "validator/validator",
+		"Forks": 127,
+		"TotalBytes": 48649,
+		"GunningFogIndex": 20.250586704575444
+	},
+	{
+		"Name": "go-gitea/gitea",
+		"Forks": 768,
+		"TotalBytes": 260414,
+		"GunningFogIndex": 20.863759137595657
+	},
+	{
+		"Name": "freedomofpress/securedrop",
+		"Forks": 476,
+		"TotalBytes": 547475,
+		"GunningFogIndex": 12.444690625412253
+	},
+	{
+		"Name": "dmlc/xgboost",
+		"Forks": 5537,
+		"TotalBytes": 235543,
+		"GunningFogIndex": 13.73920545157014
+	},
+	{
+		"Name": "baloonwj/flamingo",
+		"Forks": 168,
+		"TotalBytes": 4600,
+		"GunningFogIndex": 47.24444444444445
+	},
+	{
+		"Name": "notracking/hosts-blocklists",
+		"Forks": 29,
+		"TotalBytes": 7165,
+		"GunningFogIndex": 29.739559118236475
+	},
+	{
+		"Name": "h2database/h2database",
+		"Forks": 460,
+		"TotalBytes": 1943,
+		"GunningFogIndex": 16.087361005008063
+	},
+	{
+		"Name": "pallets/werkzeug",
+		"Forks": 1203,
+		"TotalBytes": 186034,
+		"GunningFogIndex": 11.847332546506879
+	},
+	{
+		"Name": "mli/gluon-tutorials-zh",
+		"Forks": 691,
+		"TotalBytes": 732878,
+		"GunningFogIndex": 29.38185745972706
+	},
+	{
+		"Name": "aosp-mirror/platform_development",
+		"Forks": 2291,
+		"TotalBytes": 21270,
+		"GunningFogIndex": 11.572121627021588
+	},
+	{
+		"Name": "libretro/RetroArch",
+		"Forks": 715,
+		"TotalBytes": 392577,
+		"GunningFogIndex": 15.135432831711135
+	},
+	{
+		"Name": "davisking/dlib",
+		"Forks": 1520,
+		"TotalBytes": 14583,
+		"GunningFogIndex": 9.600634248983022
+	},
+	{
+		"Name": "trekhleb/javascript-algorithms",
+		"Forks": 2019,
+		"TotalBytes": 151374,
+		"GunningFogIndex": 21.75721201692363
+	},
+	{
+		"Name": "EOSIO/eos",
+		"Forks": 1998,
+		"TotalBytes": 77794,
+		"GunningFogIndex": 14.543996938301017
+	},
+	{
+		"Name": "donwa/oneindex",
+		"Forks": 255,
+		"TotalBytes": 3820,
+		"GunningFogIndex": 51.21484716157205
+	},
+	{
+		"Name": "duckduckgo/Android",
+		"Forks": 123,
+		"TotalBytes": 3683,
+		"GunningFogIndex": 12.312769035129552
+	},
+	{
+		"Name": "ccxt/ccxt",
+		"Forks": 1805,
+		"TotalBytes": 1078167,
+		"GunningFogIndex": 43.777474552188096
+	},
+	{
+		"Name": "olucurious/Awesome-ARKit",
+		"Forks": 469,
+		"TotalBytes": 20117,
+		"GunningFogIndex": 10.911313827060635
+	},
+	{
+		"Name": "mono/mono",
+		"Forks": 2898,
+		"TotalBytes": 58080,
+		"GunningFogIndex": 11.332823658493144
+	},
+	{
+		"Name": "pingcap/pd",
+		"Forks": 131,
+		"TotalBytes": 8232,
+		"GunningFogIndex": 16.271154482162824
+	},
+	{
+		"Name": "google/gopacket",
+		"Forks": 370,
+		"TotalBytes": 9425,
+		"GunningFogIndex": 9.651378809869378
+	},
+	{
+		"Name": "facebook/fbthrift",
+		"Forks": 349,
+		"TotalBytes": 63089,
+		"GunningFogIndex": 11.285046313062253
+	},
+	{
+		"Name": "r-lib/pkgdown",
+		"Forks": 171,
+		"TotalBytes": 11455,
+		"GunningFogIndex": 13.17296542598166
+	},
+	{
+		"Name": "google/boringssl",
+		"Forks": 152,
+		"TotalBytes": 307190,
+		"GunningFogIndex": 10.312354493158864
+	},
+	{
+		"Name": "mixstart/mixphp",
+		"Forks": 78,
+		"TotalBytes": 4933,
+		"GunningFogIndex": 20.726315789473688
+	},
+	{
+		"Name": "neal1991/articles-translator",
+		"Forks": 54,
+		"TotalBytes": 454453,
+		"GunningFogIndex": 38.32501090912078
+	},
+	{
+		"Name": "melvitax/DateHelper",
+		"Forks": 161,
+		"TotalBytes": 11087,
+		"GunningFogIndex": 13.360652925255051
+	},
+	{
+		"Name": "fejes713/30-seconds-of-interviews",
+		"Forks": 82,
+		"TotalBytes": 215760,
+		"GunningFogIndex": 11.983052590727208
+	},
+	{
+		"Name": "Microsoft/vs-threading",
+		"Forks": 31,
+		"TotalBytes": 93045,
+		"GunningFogIndex": 18.240687440766486
+	},
+	{
+		"Name": "NathanFlurry/VisualProgrammingLanguage",
+		"Forks": 25,
+		"TotalBytes": 835,
+		"GunningFogIndex": 9.171428571428573
+	},
+	{
+		"Name": "localForage/localForage",
+		"Forks": 718,
+		"TotalBytes": 36737,
+		"GunningFogIndex": 12.082441553622449
+	},
+	{
+		"Name": "me-shaon/GLWTPL",
+		"Forks": 29,
+		"TotalBytes": 262,
+		"GunningFogIndex": 5.388888888888889
+	},
+	{
+		"Name": "gradle/gradle",
+		"Forks": 2201,
+		"TotalBytes": 1203856,
+		"GunningFogIndex": 12.821868451811849
+	},
+	{
+		"Name": "dotnet/cli",
+		"Forks": 863,
+		"TotalBytes": 127174,
+		"GunningFogIndex": 12.656576762576668
+	},
+	{
+		"Name": "deaghean/omnifocus-perspective-icons",
+		"Forks": 43,
+		"TotalBytes": 2156,
+		"GunningFogIndex": 13.791061845131615
+	},
+	{
+		"Name": "google/skia",
+		"Forks": 503,
+		"TotalBytes": 2821451,
+		"GunningFogIndex": 23.71466095072639
+	},
+	{
+		"Name": "0ad/0ad",
+		"Forks": 269,
+		"TotalBytes": 43432,
+		"GunningFogIndex": 14.183645374408808
+	},
+	{
+		"Name": "isomorphic-git/isomorphic-git",
+		"Forks": 72,
+		"TotalBytes": 27606,
+		"GunningFogIndex": 25.15052223251863
+	},
+	{
+		"Name": "GoogleCloudPlatform/gcsfuse",
+		"Forks": 91,
+		"TotalBytes": 117382,
+		"GunningFogIndex": 11.514574563870621
+	},
+	{
+		"Name": "elastic/elasticsearch",
+		"Forks": 10872,
+		"TotalBytes": 32340,
+		"GunningFogIndex": 12.193774733081456
+	},
+	{
+		"Name": "Bytom/bytom",
+		"Forks": 255,
+		"TotalBytes": 619686,
+		"GunningFogIndex": 14.614868547085665
+	},
+	{
+		"Name": "mozilla/mozillians",
+		"Forks": 340,
+		"TotalBytes": 56039,
+		"GunningFogIndex": 13.377685898022776
+	},
+	{
+		"Name": "lepture/flask-oauthlib",
+		"Forks": 377,
+		"TotalBytes": 65398,
+		"GunningFogIndex": 10.682820583091129
+	},
+	{
+		"Name": "polaris1119/The-Golang-Standard-Library-by-Example",
+		"Forks": 925,
+		"TotalBytes": 331131,
+		"GunningFogIndex": 30.016580920003577
+	},
+	{
+		"Name": "DIYgod/RSSHub",
+		"Forks": 171,
+		"TotalBytes": 48385,
+		"GunningFogIndex": 45.69027871108026
+	},
+	{
+		"Name": "ruby-gnome2/ruby-gnome2",
+		"Forks": 69,
+		"TotalBytes": 80431,
+		"GunningFogIndex": 10.518949139669616
+	},
+	{
+		"Name": "onnx/onnx",
+		"Forks": 460,
+		"TotalBytes": 678120,
+		"GunningFogIndex": 16.177107713514594
+	},
+	{
+		"Name": "stipsan/scroll-into-view-if-needed",
+		"Forks": 23,
+		"TotalBytes": 28326,
+		"GunningFogIndex": 12.730856743980851
+	},
+	{
+		"Name": "tianocore/edk2",
+		"Forks": 553,
+		"TotalBytes": 63125,
+		"GunningFogIndex": 17.158258934715892
+	},
+	{
+		"Name": "dotnet/docfx",
+		"Forks": 320,
+		"TotalBytes": 372370,
+		"GunningFogIndex": 13.685626111409693
+	},
+	{
+		"Name": "xiaohaibin/XBanner",
+		"Forks": 115,
+		"TotalBytes": 9789,
+		"GunningFogIndex": 21.37701381867206
+	},
+	{
+		"Name": "mongodb/mongo",
+		"Forks": 3599,
+		"TotalBytes": 292940,
+		"GunningFogIndex": 14.898873215037007
+	},
+	{
+		"Name": "pypa/pipenv",
+		"Forks": 738,
+		"TotalBytes": 98124,
+		"GunningFogIndex": 10.42263791094517
+	},
+	{
+		"Name": "JimBobSquarePants/ImageProcessor",
+		"Forks": 431,
+		"TotalBytes": 9035,
+		"GunningFogIndex": 15.017912118530063
+	},
+	{
+		"Name": "bukalapak/snowboard",
+		"Forks": 51,
+		"TotalBytes": 149832,
+		"GunningFogIndex": 11.900940416577603
+	},
+	{
+		"Name": "dateutil/dateutil",
+		"Forks": 204,
+		"TotalBytes": 90747,
+		"GunningFogIndex": 11.158425403127605
+	},
+	{
+		"Name": "webpack-contrib/webpack-serve",
+		"Forks": 37,
+		"TotalBytes": 19717,
+		"GunningFogIndex": 8.953370262775456
+	},
+	{
+		"Name": "jstedfast/MailKit",
+		"Forks": 332,
+		"TotalBytes": 126631,
+		"GunningFogIndex": 15.493772943059717
+	},
+	{
+		"Name": "jstedfast/MimeKit",
+		"Forks": 157,
+		"TotalBytes": 150498,
+		"GunningFogIndex": 19.562217507230496
+	},
+	{
+		"Name": "pgbackrest/pgbackrest",
+		"Forks": 33,
+		"TotalBytes": 18496,
+		"GunningFogIndex": 12.312938235025275
+	},
+	{
+		"Name": "elastic/kibana",
+		"Forks": 3669,
+		"TotalBytes": 278325,
+		"GunningFogIndex": 13.0306572622375
+	},
+	{
+		"Name": "OfficeDev/office-ui-fabric-react",
+		"Forks": 594,
+		"TotalBytes": 358723,
+		"GunningFogIndex": 9.887180726805989
+	},
+	{
+		"Name": "DistrictDataLabs/yellowbrick",
+		"Forks": 195,
+		"TotalBytes": 286052,
+		"GunningFogIndex": 13.990461752388834
+	},
+	{
+		"Name": "allwefantasy/streamingpro",
+		"Forks": 217,
+		"TotalBytes": 196272,
+		"GunningFogIndex": 26.40660147664635
+	},
+	{
+		"Name": "apache/groovy",
+		"Forks": 1000,
+		"TotalBytes": 1055294,
+		"GunningFogIndex": 15.106137813641604
+	},
+	{
+		"Name": "jaydenseric/apollo-upload-server",
+		"Forks": 29,
+		"TotalBytes": 13161,
+		"GunningFogIndex": 11.915329111543778
+	},
+	{
+		"Name": "aosp-mirror/platform_build",
+		"Forks": 612,
+		"TotalBytes": 11005,
+		"GunningFogIndex": 12.47952601909277
+	},
+	{
+		"Name": "mapd/mapd-charting",
+		"Forks": 55,
+		"TotalBytes": 18188,
+		"GunningFogIndex": 21.813932663447595
+	},
+	{
+		"Name": "natemcmaster/dotnet-tools",
+		"Forks": 20,
+		"TotalBytes": 14575,
+		"GunningFogIndex": 14.373754218781023
+	},
+	{
+		"Name": "JustWayward/BookReader",
+		"Forks": 1356,
+		"TotalBytes": 4435,
+		"GunningFogIndex": 33.10149253731344
+	},
+	{
+		"Name": "facebook/flow",
+		"Forks": 1399,
+		"TotalBytes": 497126,
+		"GunningFogIndex": 11.36907986792283
+	},
+	{
+		"Name": "google/angle",
+		"Forks": 244,
+		"TotalBytes": 120976,
+		"GunningFogIndex": 14.482796516256261
+	},
+	{
+		"Name": "NickeManarin/ScreenToGif",
+		"Forks": 492,
+		"TotalBytes": 9228,
+		"GunningFogIndex": 17.907831854356544
+	},
+	{
+		"Name": "gojektech/heimdall",
+		"Forks": 29,
+		"TotalBytes": 14299,
+		"GunningFogIndex": 14.100897205775256
+	},
+	{
+		"Name": "gabebw/dotfiles",
+		"Forks": 17,
+		"TotalBytes": 7165,
+		"GunningFogIndex": 11.196055577724332
+	},
+	{
+		"Name": "TuiQiao/CBoard",
+		"Forks": 525,
+		"TotalBytes": 235056,
+		"GunningFogIndex": 14.8238008756163
+	},
+	{
+		"Name": "jpush/jpush-react-native",
+		"Forks": 147,
+		"TotalBytes": 60800,
+		"GunningFogIndex": 24.230574325311345
+	},
+	{
+		"Name": "WenchaoD/FSCalendar",
+		"Forks": 1164,
+		"TotalBytes": 59744,
+		"GunningFogIndex": 21.655526244161734
+	},
+	{
+		"Name": "openshift/openshift-ansible",
+		"Forks": 1399,
+		"TotalBytes": 371230,
+		"GunningFogIndex": 16.859097986709955
+	},
+	{
+		"Name": "diepm/vim-rest-console",
+		"Forks": 20,
+		"TotalBytes": 13082,
+		"GunningFogIndex": 6.31114386331029
+	},
+	{
+		"Name": "statsmodels/statsmodels",
+		"Forks": 1261,
+		"TotalBytes": 370569,
+		"GunningFogIndex": 12.929952503695356
+	},
+	{
+		"Name": "mesa3d/mesa",
+		"Forks": 110,
+		"TotalBytes": 253954,
+		"GunningFogIndex": 8.771775239990877
+	},
+	{
+		"Name": "CVC4/CVC4",
+		"Forks": 82,
+		"TotalBytes": 7385,
+		"GunningFogIndex": 13.513179326094399
+	},
+	{
+		"Name": "kubernetes/kops",
+		"Forks": 1616,
+		"TotalBytes": 1505675,
+		"GunningFogIndex": 18.04666829593452
+	},
+	{
+		"Name": "Azure/azure-rest-api-specs",
+		"Forks": 786,
+		"TotalBytes": 1114610,
+		"GunningFogIndex": 14.228931494101257
+	},
+	{
+		"Name": "kubeflow/tf-operator",
+		"Forks": 129,
+		"TotalBytes": 660510,
+		"GunningFogIndex": 13.950702963234754
+	},
+	{
+		"Name": "d8ahazard/Phlex",
+		"Forks": 71,
+		"TotalBytes": 211312,
+		"GunningFogIndex": 14.419598880299215
+	},
+	{
+		"Name": "zdevito/ATen",
+		"Forks": 67,
+		"TotalBytes": 33285,
+		"GunningFogIndex": 12.59065531081972
+	},
+	{
+		"Name": "spdk/spdk",
+		"Forks": 249,
+		"TotalBytes": 325942,
+		"GunningFogIndex": 12.616016353352906
+	},
+	{
+		"Name": "rapid7/metasploit-framework",
+		"Forks": 6847,
+		"TotalBytes": 1621184,
+		"GunningFogIndex": 10.630465564196207
+	},
+	{
+		"Name": "icecc/icecream",
+		"Forks": 142,
+		"TotalBytes": 26916,
+		"GunningFogIndex": 13.078097211430546
+	},
+	{
+		"Name": "lutzroeder/Netron",
+		"Forks": 77,
+		"TotalBytes": 4721,
+		"GunningFogIndex": 16.655230150454344
+	},
+	{
+		"Name": "DonJayamanne/pythonVSCode",
+		"Forks": 328,
+		"TotalBytes": 150973,
+		"GunningFogIndex": 11.96701341827725
+	},
+	{
+		"Name": "sid88in/serverless-appsync-plugin",
+		"Forks": 25,
+		"TotalBytes": 8301,
+		"GunningFogIndex": 17.491907408088913
+	},
+	{
+		"Name": "ProtoTeam/blog",
+		"Forks": 75,
+		"TotalBytes": 475999,
+		"GunningFogIndex": 84.68913946026984
+	},
+	{
+		"Name": "quiltdata/quilt",
+		"Forks": 24,
+		"TotalBytes": 177835,
+		"GunningFogIndex": 13.396384882076044
+	},
+	{
+		"Name": "home-assistant/home-assistant",
+		"Forks": 4351,
+		"TotalBytes": 30717,
+		"GunningFogIndex": 18.728051983923475
+	},
+	{
+		"Name": "NixOS/nixpkgs",
+		"Forks": 2799,
+		"TotalBytes": 131041,
+		"GunningFogIndex": 13.523255818299841
+	},
+	{
+		"Name": "flowtype/flow-typed",
+		"Forks": 921,
+		"TotalBytes": 19148,
+		"GunningFogIndex": 11.889699283011106
+	},
+	{
+		"Name": "botpress/botpress",
+		"Forks": 463,
+		"TotalBytes": 289425,
+		"GunningFogIndex": 11.123438299156039
+	},
+	{
+		"Name": "expo/expo",
+		"Forks": 252,
+		"TotalBytes": 106646,
+		"GunningFogIndex": 13.818835230765707
+	},
+	{
+		"Name": "fastai/fastai",
+		"Forks": 1706,
+		"TotalBytes": 58643,
+		"GunningFogIndex": 14.178565069153217
+	},
+	{
+		"Name": "otwcode/otwarchive",
+		"Forks": 185,
+		"TotalBytes": 11565,
+		"GunningFogIndex": 12.15356353585305
+	},
+	{
+		"Name": "travis-ci/travis-api",
+		"Forks": 126,
+		"TotalBytes": 8630,
+		"GunningFogIndex": 24.15521117158775
+	},
+	{
+		"Name": "linagora/openpaas-esn",
+		"Forks": 68,
+		"TotalBytes": 255512,
+		"GunningFogIndex": 13.530238727074806
+	},
+	{
+		"Name": "apache/incubator-dubbo",
+		"Forks": 13513,
+		"TotalBytes": 11672,
+		"GunningFogIndex": 14.285527521786008
+	},
+	{
+		"Name": "home-assistant/home-assistant-polymer",
+		"Forks": 343,
+		"TotalBytes": 18172,
+		"GunningFogIndex": 17.208333670822064
+	},
+	{
+		"Name": "scikit-learn/scikit-learn",
+		"Forks": 14203,
+		"TotalBytes": 1545922,
+		"GunningFogIndex": 11.701611150070214
+	},
+	{
+		"Name": "NREL/api-umbrella",
+		"Forks": 202,
+		"TotalBytes": 127286,
+		"GunningFogIndex": 13.053630307379683
+	},
+	{
+		"Name": "OpenHFT/OpenHFT",
+		"Forks": 90,
+		"TotalBytes": 4333,
+		"GunningFogIndex": 13.288686682660915
+	},
+	{
+		"Name": "magefree/mage",
+		"Forks": 399,
+		"TotalBytes": 3181,
+		"GunningFogIndex": 13.331358024691362
+	},
+	{
+		"Name": "appcelerator/titanium_mobile",
+		"Forks": 1199,
+		"TotalBytes": 34751,
+		"GunningFogIndex": 13.731775227015389
+	},
+	{
+		"Name": "melpa/melpa",
+		"Forks": 1472,
+		"TotalBytes": 57264,
+		"GunningFogIndex": 11.21643754929067
+	},
+	{
+		"Name": "sony/nnabla",
+		"Forks": 217,
+		"TotalBytes": 274999,
+		"GunningFogIndex": 10.45323642577421
+	},
+	{
+		"Name": "grafana/grafana",
+		"Forks": 3918,
+		"TotalBytes": 784001,
+		"GunningFogIndex": 14.83437266574177
+	},
+	{
+		"Name": "paper-trail-gem/paper_trail",
+		"Forks": 687,
+		"TotalBytes": 99376,
+		"GunningFogIndex": 10.670204729906356
+	},
+	{
+		"Name": "tensorflow/tfjs-core",
+		"Forks": 773,
+		"TotalBytes": 8007,
+		"GunningFogIndex": 12.471203090369102
+	},
+	{
+		"Name": "ruby/ruby",
+		"Forks": 3904,
+		"TotalBytes": 44345,
+		"GunningFogIndex": 11.353951173929106
+	},
+	{
+		"Name": "MarginallyClever/Makelangelo-software",
+		"Forks": 99,
+		"TotalBytes": 254,
+		"GunningFogIndex": 32.68235294117647
+	},
+	{
+		"Name": "iCHAIT/awesome-subreddits",
+		"Forks": 31,
+		"TotalBytes": 19055,
+		"GunningFogIndex": 11.358070690102268
+	},
+	{
+		"Name": "grpc/grpc-go",
+		"Forks": 1096,
+		"TotalBytes": 65563,
+		"GunningFogIndex": 13.004348196804367
+	},
+	{
+		"Name": "yanhaijing/template.js",
+		"Forks": 354,
+		"TotalBytes": 9148,
+		"GunningFogIndex": 25.297205858683412
+	},
+	{
+		"Name": "gocd/gocd",
+		"Forks": 708,
+		"TotalBytes": 2626740,
+		"GunningFogIndex": 13.258772196813306
+	},
+	{
+		"Name": "baidu/san",
+		"Forks": 341,
+		"TotalBytes": 53628,
+		"GunningFogIndex": 27.163950564268713
+	},
+	{
+		"Name": "declandewet/vue-meta",
+		"Forks": 87,
+		"TotalBytes": 26313,
+		"GunningFogIndex": 15.439269760639656
+	},
+	{
+		"Name": "gocn/news",
+		"Forks": 23,
+		"TotalBytes": 276800,
+		"GunningFogIndex": 13.184054566867035
+	},
+	{
+		"Name": "conda-forge/staged-recipes",
+		"Forks": 856,
+		"TotalBytes": 6800,
+		"GunningFogIndex": 7.3581210336931635
+	},
+	{
+		"Name": "perl6/nqp",
+		"Forks": 98,
+		"TotalBytes": 8397,
+		"GunningFogIndex": 9.211225817907462
+	},
+	{
+		"Name": "kovidgoyal/kitty",
+		"Forks": 151,
+		"TotalBytes": 94448,
+		"GunningFogIndex": 11.193949424212287
+	},
+	{
+		"Name": "facebook/mysql-5.6",
+		"Forks": 442,
+		"TotalBytes": 303180,
+		"GunningFogIndex": 11.468736175125334
+	},
+	{
+		"Name": "JakeWharton/butterknife",
+		"Forks": 4171,
+		"TotalBytes": 16766,
+		"GunningFogIndex": 8.188781252837886
+	},
+	{
+		"Name": "ServiceStack/ServiceStack",
+		"Forks": 1493,
+		"TotalBytes": 1242866,
+		"GunningFogIndex": 20.843592969554063
+	},
+	{
+		"Name": "cakephp/cakephp",
+		"Forks": 3335,
+		"TotalBytes": 47575,
+		"GunningFogIndex": 14.723911456844382
+	},
+	{
+		"Name": "spyder-ide/spyder",
+		"Forks": 691,
+		"TotalBytes": 388787,
+		"GunningFogIndex": 20.977094577217503
+	},
+	{
+		"Name": "invoiceninja/invoiceninja",
+		"Forks": 1165,
+		"TotalBytes": 203593,
+		"GunningFogIndex": 8.894267882691803
+	},
+	{
+		"Name": "easylist/easylist",
+		"Forks": 151,
+		"TotalBytes": 1503,
+		"GunningFogIndex": 7.001710023649264
+	},
+	{
+		"Name": "wordpress-mobile/WordPress-iOS",
+		"Forks": 795,
+		"TotalBytes": 40111,
+		"GunningFogIndex": 13.63080166817412
+	},
+	{
+		"Name": "eclipse/omr",
+		"Forks": 218,
+		"TotalBytes": 319858,
+		"GunningFogIndex": 11.608661262702709
+	},
+	{
+		"Name": "vmware/clarity",
+		"Forks": 328,
+		"TotalBytes": 40656,
+		"GunningFogIndex": 10.562782681719495
+	},
+	{
+		"Name": "citybound/citybound",
+		"Forks": 57,
+		"TotalBytes": 32229,
+		"GunningFogIndex": 56.070907677007625
+	},
+	{
+		"Name": "aws-samples/aws-workshop-for-kubernetes",
+		"Forks": 362,
+		"TotalBytes": 470624,
+		"GunningFogIndex": 13.547763875013327
+	},
+	{
+		"Name": "ebean-orm/ebean",
+		"Forks": 184,
+		"TotalBytes": 14042,
+		"GunningFogIndex": 19.376565219913754
+	},
+	{
+		"Name": "apache/activemq",
+		"Forks": 864,
+		"TotalBytes": 26218,
+		"GunningFogIndex": 17.175563732821026
+	},
+	{
+		"Name": "liangxiegame/QFramework",
+		"Forks": 186,
+		"TotalBytes": 217848,
+		"GunningFogIndex": 42.40074870842034
+	},
+	{
+		"Name": "sabresaurus/SabreCSG",
+		"Forks": 63,
+		"TotalBytes": 3470,
+		"GunningFogIndex": 13.272833353591833
+	},
+	{
+		"Name": "apache/cloudstack",
+		"Forks": 638,
+		"TotalBytes": 171940,
+		"GunningFogIndex": 11.574569557120977
+	},
+	{
+		"Name": "AdguardTeam/AdguardFilters",
+		"Forks": 71,
+		"TotalBytes": 5076,
+		"GunningFogIndex": 11.204084967320263
+	},
+	{
+		"Name": "domoticz/domoticz",
+		"Forks": 651,
+		"TotalBytes": 186521,
+		"GunningFogIndex": 12.08595998920593
+	},
+	{
+		"Name": "dhall-lang/dhall-haskell",
+		"Forks": 52,
+		"TotalBytes": 31294,
+		"GunningFogIndex": 19.056847711278813
+	},
+	{
+		"Name": "crystal-lang/crystal",
+		"Forks": 855,
+		"TotalBytes": 138512,
+		"GunningFogIndex": 14.124271571057989
+	},
+	{
+		"Name": "SmingHub/Sming",
+		"Forks": 292,
+		"TotalBytes": 76867,
+		"GunningFogIndex": 15.380133767104457
+	},
+	{
+		"Name": "dnnsoftware/Dnn.Platform",
+		"Forks": 393,
+		"TotalBytes": 9000,
+		"GunningFogIndex": 14.383373918987685
+	},
+	{
+		"Name": "dotnetcore/CAP",
+		"Forks": 287,
+		"TotalBytes": 16460,
+		"GunningFogIndex": 33.814851641211234
+	},
+	{
+		"Name": "Dotnet-Boxed/Templates",
+		"Forks": 279,
+		"TotalBytes": 18874,
+		"GunningFogIndex": 7.424833137005277
+	},
+	{
+		"Name": "xuxueli/xxl-conf",
+		"Forks": 155,
+		"TotalBytes": 34153,
+		"GunningFogIndex": 23.800215921536363
+	},
+	{
+		"Name": "travis-ci/docs-travis-ci-com",
+		"Forks": 1362,
+		"TotalBytes": 922691,
+		"GunningFogIndex": 14.080275247070242
+	},
+	{
+		"Name": "freebsd/pkg",
+		"Forks": 181,
+		"TotalBytes": 72750,
+		"GunningFogIndex": 12.92108678459142
+	},
+	{
+		"Name": "OpenHFT/Chronicle-Queue",
+		"Forks": 306,
+		"TotalBytes": 157810,
+		"GunningFogIndex": 13.775809940593502
+	},
+	{
+		"Name": "FStarLang/FStar",
+		"Forks": 105,
+		"TotalBytes": 60421,
+		"GunningFogIndex": 20.104680813905595
+	},
+	{
+		"Name": "valyala/fastjson",
+		"Forks": 6,
+		"TotalBytes": 8186,
+		"GunningFogIndex": 7.630952469572339
+	},
+	{
+		"Name": "hadolint/hadolint",
+		"Forks": 55,
+		"TotalBytes": 25836,
+		"GunningFogIndex": 12.203185952386121
+	},
+	{
+		"Name": "emotion-js/emotion",
+		"Forks": 233,
+		"TotalBytes": 150217,
+		"GunningFogIndex": 15.920040698195281
+	},
+	{
+		"Name": "imWildCat/scylla",
+		"Forks": 80,
+		"TotalBytes": 49087,
+		"GunningFogIndex": 11.849479468826019
+	},
+	{
+		"Name": "apache/zeppelin",
+		"Forks": 1836,
+		"TotalBytes": 625397,
+		"GunningFogIndex": 13.886000328493315
+	},
+	{
+		"Name": "openstack/rally",
+		"Forks": 261,
+		"TotalBytes": 619931,
+		"GunningFogIndex": 11.608997625333787
+	},
+	{
+		"Name": "Ultimaker/CuraEngine",
+		"Forks": 476,
+		"TotalBytes": 17547,
+		"GunningFogIndex": 13.443204287787678
+	},
+	{
+		"Name": "cdnjs/cdnjs",
+		"Forks": 3557,
+		"TotalBytes": 27762,
+		"GunningFogIndex": 11.415490986422036
+	},
+	{
+		"Name": "Admin9705/PlexGuide.com-The-Awesome-Plex-Server",
+		"Forks": 79,
+		"TotalBytes": 78134,
+		"GunningFogIndex": 31.528982670192523
+	},
+	{
+		"Name": "LimeSurvey/LimeSurvey",
+		"Forks": 512,
+		"TotalBytes": 611066,
+		"GunningFogIndex": 17.767065470453232
+	},
+	{
+		"Name": "yourduskquibbles/webannoyances",
+		"Forks": 8,
+		"TotalBytes": 4729,
+		"GunningFogIndex": 12.714891352549891
+	},
+	{
+		"Name": "ampproject/amp-by-example",
+		"Forks": 448,
+		"TotalBytes": 11793,
+		"GunningFogIndex": 14.681434939590462
+	},
+	{
+		"Name": "actix/actix-web",
+		"Forks": 90,
+		"TotalBytes": 20234,
+		"GunningFogIndex": 17.593372474564383
+	},
+	{
+		"Name": "mui-org/material-ui",
+		"Forks": 6789,
+		"TotalBytes": 777286,
+		"GunningFogIndex": 14.244866208257625
+	},
+	{
+		"Name": "SeldonIO/seldon-core",
+		"Forks": 31,
+		"TotalBytes": 119198,
+		"GunningFogIndex": 20.437087340312473
+	},
+	{
+		"Name": "aqzt/kjyw",
+		"Forks": 214,
+		"TotalBytes": 11855,
+		"GunningFogIndex": 37.28882634437527
+	},
+	{
+		"Name": "colmap/colmap",
+		"Forks": 241,
+		"TotalBytes": 102293,
+		"GunningFogIndex": 12.15983931807489
+	},
+	{
+		"Name": "nextcloud/server",
+		"Forks": 780,
+		"TotalBytes": 26250,
+		"GunningFogIndex": 17.062643825459283
+	},
+	{
+		"Name": "whitecatboard/Lua-RTOS-ESP32",
+		"Forks": 68,
+		"TotalBytes": 40561,
+		"GunningFogIndex": 11.190700916466838
+	},
+	{
+		"Name": "sosreport/sos",
+		"Forks": 235,
+		"TotalBytes": 7279,
+		"GunningFogIndex": 14.189331154393594
+	},
+	{
+		"Name": "jolibrain/deepdetect",
+		"Forks": 375,
+		"TotalBytes": 39981,
+		"GunningFogIndex": 15.931747846995341
+	},
+	{
+		"Name": "drupal/drupal",
+		"Forks": 1547,
+		"TotalBytes": 272452,
+		"GunningFogIndex": 15.432693767526038
+	},
+	{
+		"Name": "wordpress-mobile/WordPress-Android",
+		"Forks": 927,
+		"TotalBytes": 69828,
+		"GunningFogIndex": 15.3297545907318
+	},
+	{
+		"Name": "ory/hydra",
+		"Forks": 322,
+		"TotalBytes": 494751,
+		"GunningFogIndex": 16.317274054402702
+	},
+	{
+		"Name": "fossasia/open-event-android",
+		"Forks": 14,
+		"TotalBytes": 6871,
+		"GunningFogIndex": 12.125214955076807
+	},
+	{
+		"Name": "spiral/goridge",
+		"Forks": 22,
+		"TotalBytes": 4323,
+		"GunningFogIndex": 12.224411307859583
+	},
+	{
+		"Name": "ocaml/opam-repository",
+		"Forks": 538,
+		"TotalBytes": 8511,
+		"GunningFogIndex": 10.86699704399235
+	},
+	{
+		"Name": "telegram-bot-rb/telegram-bot",
+		"Forks": 46,
+		"TotalBytes": 24452,
+		"GunningFogIndex": 7.403413611891874
+	},
+	{
+		"Name": "jenkins-x/jx",
+		"Forks": 135,
+		"TotalBytes": 19805,
+		"GunningFogIndex": 18.223517456917953
+	},
+	{
+		"Name": "apache/ignite",
+		"Forks": 967,
+		"TotalBytes": 55361,
+		"GunningFogIndex": 13.165950736300905
+	},
+	{
+		"Name": "eventflow/EventFlow",
+		"Forks": 154,
+		"TotalBytes": 66669,
+		"GunningFogIndex": 24.24399845071453
+	},
+	{
+		"Name": "guardian/grid",
+		"Forks": 91,
+		"TotalBytes": 30364,
+		"GunningFogIndex": 13.450536997510572
+	},
+	{
+		"Name": "dreyescat/react-rating",
+		"Forks": 47,
+		"TotalBytes": 7027,
+		"GunningFogIndex": 13.831213304237863
+	},
+	{
+		"Name": "UKHomeOffice/posters",
+		"Forks": 153,
+		"TotalBytes": 47513,
+		"GunningFogIndex": 14.486534568044643
+	},
+	{
+		"Name": "Linuxbrew/homebrew-core",
+		"Forks": 122,
+		"TotalBytes": 9377,
+		"GunningFogIndex": 11.99889797411072
+	},
+	{
+		"Name": "libgit2/libgit2",
+		"Forks": 1657,
+		"TotalBytes": 124595,
+		"GunningFogIndex": 11.923726470891511
+	},
+	{
+		"Name": "OSGeo/gdal",
+		"Forks": 484,
+		"TotalBytes": 10620,
+		"GunningFogIndex": 11.891966716494665
+	},
+	{
+		"Name": "status-im/react-native-desktop",
+		"Forks": 21,
+		"TotalBytes": 385055,
+		"GunningFogIndex": 14.307051977853066
+	},
+	{
+		"Name": "Cuieney/RxPay",
+		"Forks": 62,
+		"TotalBytes": 7291,
+		"GunningFogIndex": 18.39650502402796
+	},
+	{
+		"Name": "ElemeFE/v-charts",
+		"Forks": 285,
+		"TotalBytes": 370298,
+		"GunningFogIndex": 46.75648806143014
+	},
+	{
+		"Name": "status-im/status-go",
+		"Forks": 129,
+		"TotalBytes": 152460,
+		"GunningFogIndex": 12.36762873823683
+	},
+	{
+		"Name": "firehol/blocklist-ipsets",
+		"Forks": 36,
+		"TotalBytes": 498339,
+		"GunningFogIndex": 125.43137670063538
+	},
+	{
+		"Name": "frees-io/freestyle",
+		"Forks": 38,
+		"TotalBytes": 174524,
+		"GunningFogIndex": 15.553527454243113
+	},
+	{
+		"Name": "mysociety/fixmystreet",
+		"Forks": 180,
+		"TotalBytes": 57424,
+		"GunningFogIndex": 13.061862593302795
+	},
+	{
+		"Name": "linuxkit/linuxkit",
+		"Forks": 516,
+		"TotalBytes": 808991,
+		"GunningFogIndex": 13.46793362095433
+	},
+	{
+		"Name": "roswell/roswell",
+		"Forks": 81,
+		"TotalBytes": 39385,
+		"GunningFogIndex": 8.647092922227872
+	},
+	{
+		"Name": "o2team/o2team.github.io",
+		"Forks": 28,
+		"TotalBytes": 1912476,
+		"GunningFogIndex": 40.84632869805399
+	},
+	{
+		"Name": "gatsbyjs/gatsby",
+		"Forks": 2171,
+		"TotalBytes": 1153223,
+		"GunningFogIndex": 14.270140969298867
+	},
+	{
+		"Name": "pmem/pmdk",
+		"Forks": 200,
+		"TotalBytes": 533333,
+		"GunningFogIndex": 13.954322421848628
+	},
+	{
+		"Name": "martinpaljak/GlobalPlatformPro",
+		"Forks": 85,
+		"TotalBytes": 27555,
+		"GunningFogIndex": 14.079851833989673
+	},
+	{
+		"Name": "algolia/react-instantsearch",
+		"Forks": 100,
+		"TotalBytes": 186088,
+		"GunningFogIndex": 16.751182103226746
+	},
+	{
+		"Name": "hs-web/hsweb-framework",
+		"Forks": 1687,
+		"TotalBytes": 79743,
+		"GunningFogIndex": 21.758946314952727
+	},
+	{
+		"Name": "magento/magento2",
+		"Forks": 4812,
+		"TotalBytes": 788902,
+		"GunningFogIndex": 14.257869971734483
+	},
+	{
+		"Name": "spring-cloud/spring-cloud-pipelines",
+		"Forks": 122,
+		"TotalBytes": 629366,
+		"GunningFogIndex": 14.276009710512117
+	},
+	{
+		"Name": "Maatwebsite/Laravel-Excel",
+		"Forks": 925,
+		"TotalBytes": 42873,
+		"GunningFogIndex": 15.482708724034335
+	},
+	{
+		"Name": "Vtrois/Kratos",
+		"Forks": 151,
+		"TotalBytes": 3452,
+		"GunningFogIndex": 19.76729103726083
+	},
+	{
+		"Name": "input-output-hk/cardano-sl",
+		"Forks": 418,
+		"TotalBytes": 606553,
+		"GunningFogIndex": 12.021820193761407
+	},
+	{
+		"Name": "EnMarche/en-marche.fr",
+		"Forks": 159,
+		"TotalBytes": 377728,
+		"GunningFogIndex": 13.549752301418195
+	},
+	{
+		"Name": "ethereum/cpp-ethereum",
+		"Forks": 1975,
+		"TotalBytes": 94388,
+		"GunningFogIndex": 11.995429535175948
+	},
+	{
+		"Name": "OpenAPITools/openapi-generator",
+		"Forks": 56,
+		"TotalBytes": 3915276,
+		"GunningFogIndex": 37.298096500519925
+	},
+	{
+		"Name": "podlove/podlove-web-player",
+		"Forks": 43,
+		"TotalBytes": 90903,
+		"GunningFogIndex": 24.4559402299967
+	},
+	{
+		"Name": "ros/rosdistro",
+		"Forks": 1102,
+		"TotalBytes": 5188,
+		"GunningFogIndex": 13.052670527670529
+	},
+	{
+		"Name": "SAP/openui5",
+		"Forks": 835,
+		"TotalBytes": 241044,
+		"GunningFogIndex": 11.245510162405672
+	},
+	{
+		"Name": "UCodeUStory/GradlePluginDevelop",
+		"Forks": 10,
+		"TotalBytes": 59407,
+		"GunningFogIndex": 44.964612490838846
+	},
+	{
+		"Name": "ilkarman/DeepLearningFrameworks",
+		"Forks": 247,
+		"TotalBytes": 17850,
+		"GunningFogIndex": 11.843820137760236
+	},
+	{
+		"Name": "plk/biblatex",
+		"Forks": 55,
+		"TotalBytes": 29165,
+		"GunningFogIndex": 11.724743931760514
+	},
+	{
+		"Name": "owncloud/core",
+		"Forks": 1817,
+		"TotalBytes": 20160,
+		"GunningFogIndex": 12.077660950399231
+	},
+	{
+		"Name": "tensorflow/tensorflow",
+		"Forks": 63983,
+		"TotalBytes": 2368134,
+		"GunningFogIndex": 15.126554331084877
+	},
+	{
+		"Name": "node-red/node-red-nodes",
+		"Forks": 326,
+		"TotalBytes": 121604,
+		"GunningFogIndex": 10.152878661296528
+	},
+	{
+		"Name": "wee-slack/wee-slack",
+		"Forks": 148,
+		"TotalBytes": 8325,
+		"GunningFogIndex": 11.258562555456965
+	},
+	{
+		"Name": "ansible/ansible",
+		"Forks": 11535,
+		"TotalBytes": 1551678,
+		"GunningFogIndex": 10.241198527854687
+	},
+	{
+		"Name": "pawelczak/EasyAutocomplete",
+		"Forks": 175,
+		"TotalBytes": 2285,
+		"GunningFogIndex": 24.005649717514125
+	},
+	{
+		"Name": "appzcoder/30-seconds-of-php-code",
+		"Forks": 23,
+		"TotalBytes": 23390,
+		"GunningFogIndex": 17.301530559993402
+	},
+	{
+		"Name": "alibaba/pouch",
+		"Forks": 489,
+		"TotalBytes": 1007717,
+		"GunningFogIndex": 23.142839756084673
+	},
+	{
+		"Name": "jonas-koehler/s2cnn",
+		"Forks": 62,
+		"TotalBytes": 4462,
+		"GunningFogIndex": 11.753040337146297
+	},
+	{
+		"Name": "qemu/qemu",
+		"Forks": 1776,
+		"TotalBytes": 132020,
+		"GunningFogIndex": 12.114817304098985
+	},
+	{
+		"Name": "ocaml/dune",
+		"Forks": 70,
+		"TotalBytes": 165911,
+		"GunningFogIndex": 11.767263494986937
+	},
+	{
+		"Name": "stbui/angular-material-app",
+		"Forks": 95,
+		"TotalBytes": 42728,
+		"GunningFogIndex": 22.41670784852191
+	},
+	{
+		"Name": "RcppCore/Rcpp",
+		"Forks": 145,
+		"TotalBytes": 8964,
+		"GunningFogIndex": 11.568400135097251
+	},
+	{
+		"Name": "RIOT-OS/RIOT",
+		"Forks": 1071,
+		"TotalBytes": 278131,
+		"GunningFogIndex": 12.30855958173163
+	},
+	{
+		"Name": "vaadin/framework",
+		"Forks": 624,
+		"TotalBytes": 93058,
+		"GunningFogIndex": 14.3115104587873
+	},
+	{
+		"Name": "raspberrypi/linux",
+		"Forks": 2442,
+		"TotalBytes": 5231883,
+		"GunningFogIndex": 10.693885808426328
+	},
+	{
+		"Name": "humhub/humhub",
+		"Forks": 1263,
+		"TotalBytes": 761027,
+		"GunningFogIndex": 16.60534011238011
+	},
+	{
+		"Name": "mcallegari/qlcplus",
+		"Forks": 165,
+		"TotalBytes": 6643,
+		"GunningFogIndex": 15.476412608396572
+	},
+	{
+		"Name": "synopse/mORMot",
+		"Forks": 169,
+		"TotalBytes": 56629,
+		"GunningFogIndex": 13.392530100803773
+	},
+	{
+		"Name": "cilium/cilium",
+		"Forks": 202,
+		"TotalBytes": 780025,
+		"GunningFogIndex": 28.274634755072373
+	},
+	{
+		"Name": "vueComponent/ant-design",
+		"Forks": 48,
+		"TotalBytes": 587198,
+		"GunningFogIndex": 27.423500667845392
+	},
+	{
+		"Name": "claudiajs/claudia",
+		"Forks": 187,
+		"TotalBytes": 64833,
+		"GunningFogIndex": 24.796169027346604
+	},
+	{
+		"Name": "facebookresearch/TensorComprehensions",
+		"Forks": 102,
+		"TotalBytes": 195904,
+		"GunningFogIndex": 12.3392574528261
+	},
+	{
+		"Name": "shenwei356/csvtk",
+		"Forks": 20,
+		"TotalBytes": 119660,
+		"GunningFogIndex": 10.910035717701453
+	},
+	{
+		"Name": "web-standards-ru/calendar",
+		"Forks": 69,
+		"TotalBytes": 23270,
+		"GunningFogIndex": 12.31384133560806
+	},
+	{
+		"Name": "hyperform/hyperform",
+		"Forks": 25,
+		"TotalBytes": 9559,
+		"GunningFogIndex": 17.74072381287289
+	},
+	{
+		"Name": "piroor/treestyletab",
+		"Forks": 139,
+		"TotalBytes": 422768,
+		"GunningFogIndex": 13.274606034858573
+	},
+	{
+		"Name": "greenplum-db/gpdb",
+		"Forks": 753,
+		"TotalBytes": 119064,
+		"GunningFogIndex": 14.655450692947367
+	},
+	{
+		"Name": "chocolatey/chocolatey.org",
+		"Forks": 75,
+		"TotalBytes": 138206,
+		"GunningFogIndex": 12.690963051392652
+	},
+	{
+		"Name": "SaraVieira/awesome-talks",
+		"Forks": 29,
+		"TotalBytes": 6575,
+		"GunningFogIndex": 23.486381877160937
+	},
+	{
+		"Name": "x360ce/x360ce",
+		"Forks": 287,
+		"TotalBytes": 30256,
+		"GunningFogIndex": 8.318284970646282
+	},
+	{
+		"Name": "llvm-mirror/llvm",
+		"Forks": 1484,
+		"TotalBytes": 4106566,
+		"GunningFogIndex": 14.726734926795638
+	},
+	{
+		"Name": "MrNothing/AI-Blocks",
+		"Forks": 137,
+		"TotalBytes": 122773,
+		"GunningFogIndex": 12.841379073504543
+	},
+	{
+		"Name": "Microsoft/testfx",
+		"Forks": 70,
+		"TotalBytes": 6030,
+		"GunningFogIndex": 16.14501853252055
+	},
+	{
+		"Name": "dart-lang/sdk",
+		"Forks": 290,
+		"TotalBytes": 1125981,
+		"GunningFogIndex": 11.745359282892352
+	},
+	{
+		"Name": "coreos/prometheus-operator",
+		"Forks": 576,
+		"TotalBytes": 764863,
+		"GunningFogIndex": 14.86549254846981
+	},
+	{
+		"Name": "swaywm/wlroots",
+		"Forks": 82,
+		"TotalBytes": 16801,
+		"GunningFogIndex": 18.987329891491523
+	},
+	{
+		"Name": "balabit/syslog-ng",
+		"Forks": 227,
+		"TotalBytes": 36681,
+		"GunningFogIndex": 14.191937487765868
+	},
+	{
+		"Name": "php-curl-class/php-curl-class",
+		"Forks": 547,
+		"TotalBytes": 13443,
+		"GunningFogIndex": 7.284811843118242
+	},
+	{
+		"Name": "GNOME/gtk",
+		"Forks": 200,
+		"TotalBytes": 12527,
+		"GunningFogIndex": 11.988404379886251
+	},
+	{
+		"Name": "stephane/libmodbus",
+		"Forks": 584,
+		"TotalBytes": 8509,
+		"GunningFogIndex": 10.601229032783706
+	},
+	{
+		"Name": "containous/traefik",
+		"Forks": 1558,
+		"TotalBytes": 811866,
+		"GunningFogIndex": 13.642255844952274
+	},
+	{
+		"Name": "spring-cloud/spring-cloud-sleuth",
+		"Forks": 353,
+		"TotalBytes": 128157,
+		"GunningFogIndex": 10.543137790793493
+	},
+	{
+		"Name": "esl/MongooseIM",
+		"Forks": 312,
+		"TotalBytes": 568919,
+		"GunningFogIndex": 12.792628091713823
+	},
+	{
+		"Name": "rust-lang-nursery/rand",
+		"Forks": 141,
+		"TotalBytes": 35304,
+		"GunningFogIndex": 10.536300841060116
+	},
+	{
+		"Name": "etianen/django-reversion",
+		"Forks": 384,
+		"TotalBytes": 48257,
+		"GunningFogIndex": 8.606837811576112
+	},
+	{
+		"Name": "dooboolab/react-native-iap",
+		"Forks": 31,
+		"TotalBytes": 26524,
+		"GunningFogIndex": 13.332075035712856
+	},
+	{
+		"Name": "shaoanlu/faceswap-GAN",
+		"Forks": 225,
+		"TotalBytes": 16010,
+		"GunningFogIndex": 8.756321414499606
+	},
+	{
+		"Name": "cometd/cometd",
+		"Forks": 179,
+		"TotalBytes": 472251,
+		"GunningFogIndex": 17.039825787890635
+	},
+	{
+		"Name": "wpmetabox/meta-box",
+		"Forks": 448,
+		"TotalBytes": 61051,
+		"GunningFogIndex": 8.4868877357044
+	},
+	{
+		"Name": "electron/electron",
+		"Forks": 7985,
+		"TotalBytes": 733514,
+		"GunningFogIndex": 14.080127915342944
+	},
+	{
+		"Name": "Tapadoo/Alerter",
+		"Forks": 415,
+		"TotalBytes": 8524,
+		"GunningFogIndex": 13.18849292659934
+	},
+	{
+		"Name": "biopython/biopython",
+		"Forks": 765,
+		"TotalBytes": 240655,
+		"GunningFogIndex": 15.772596907861855
+	},
+	{
+		"Name": "vespa-engine/vespa",
+		"Forks": 291,
+		"TotalBytes": 45428,
+		"GunningFogIndex": 6.957802043752777
+	},
+	{
+		"Name": "JetBrains/android",
+		"Forks": 59,
+		"TotalBytes": 104944,
+		"GunningFogIndex": 10.195751733334646
+	},
+	{
+		"Name": "freebsd/freebsd-ports",
+		"Forks": 368,
+		"TotalBytes": 14515,
+		"GunningFogIndex": 13.842080204008814
+	},
+	{
+		"Name": "flurinduerst/WPDistillery",
+		"Forks": 60,
+		"TotalBytes": 14732,
+		"GunningFogIndex": 12.322121830221414
+	},
+	{
+		"Name": "fonttools/fonttools",
+		"Forks": 184,
+		"TotalBytes": 112575,
+		"GunningFogIndex": 17.816464632962003
+	},
+	{
+		"Name": "getsentry/raven-csharp",
+		"Forks": 131,
+		"TotalBytes": 11327,
+		"GunningFogIndex": 21.0899517982944
+	},
+	{
+		"Name": "kiegroup/drools",
+		"Forks": 1384,
+		"TotalBytes": 8356,
+		"GunningFogIndex": 32.4078421085481
+	},
+	{
+		"Name": "djcb/mu",
+		"Forks": 237,
+		"TotalBytes": 27697,
+		"GunningFogIndex": 9.894546283563466
+	},
+	{
+		"Name": "keon/algorithms",
+		"Forks": 1915,
+		"TotalBytes": 112313,
+		"GunningFogIndex": 26.997001078938652
+	},
+	{
+		"Name": "gap-system/gap",
+		"Forks": 73,
+		"TotalBytes": 90582,
+		"GunningFogIndex": 10.352001407425153
+	},
+	{
+		"Name": "python/devguide",
+		"Forks": 143,
+		"TotalBytes": 381644,
+		"GunningFogIndex": 11.985948441550452
+	},
+	{
+		"Name": "dingo/blueprint",
+		"Forks": 81,
+		"TotalBytes": 1983,
+		"GunningFogIndex": 35.72248062015504
+	},
+	{
+		"Name": "guardian/frontend",
+		"Forks": 442,
+		"TotalBytes": 265491,
+		"GunningFogIndex": 13.127361228160535
+	},
+	{
+		"Name": "lynckia/licode",
+		"Forks": 673,
+		"TotalBytes": 74562,
+		"GunningFogIndex": 14.379297029667441
+	},
+	{
+		"Name": "collectd/collectd",
+		"Forks": 990,
+		"TotalBytes": 26340,
+		"GunningFogIndex": 9.583337585816489
+	},
+	{
+		"Name": "src-d/go-git",
+		"Forks": 243,
+		"TotalBytes": 22623,
+		"GunningFogIndex": 21.10636309507822
+	},
+	{
+		"Name": "BabylonJS/Babylon.js",
+		"Forks": 1481,
+		"TotalBytes": 104143,
+		"GunningFogIndex": 20.845204347462676
+	},
+	{
+		"Name": "googlei18n/fontmake",
+		"Forks": 50,
+		"TotalBytes": 5966,
+		"GunningFogIndex": 10.543590048709284
+	},
+	{
+		"Name": "hhxsv5/laravel-s",
+		"Forks": 94,
+		"TotalBytes": 73445,
+		"GunningFogIndex": 14.739578075108005
+	},
+	{
+		"Name": "elementary/appcenter",
+		"Forks": 34,
+		"TotalBytes": 6858,
+		"GunningFogIndex": 29.87547781455007
+	},
+	{
+		"Name": "MISP/MISP",
+		"Forks": 476,
+		"TotalBytes": 31576,
+		"GunningFogIndex": 15.50221484182795
+	},
+	{
+		"Name": "pissang/claygl",
+		"Forks": 149,
+		"TotalBytes": 7332,
+		"GunningFogIndex": 15.13389853272048
+	},
+	{
+		"Name": "pimcore/pimcore",
+		"Forks": 500,
+		"TotalBytes": 1596724,
+		"GunningFogIndex": 14.092598697388372
+	},
+	{
+		"Name": "freeCodeCamp/freeCodeCamp",
+		"Forks": 13896,
+		"TotalBytes": 81846,
+		"GunningFogIndex": 15.629390812978505
+	},
+	{
+		"Name": "osbzr/gooderp_addons",
+		"Forks": 494,
+		"TotalBytes": 19712,
+		"GunningFogIndex": 12.255061498059677
+	},
+	{
+		"Name": "citizenfx/fivem",
+		"Forks": 161,
+		"TotalBytes": 3089,
+		"GunningFogIndex": 10.968066537692204
+	},
+	{
+		"Name": "RocketChat/Rocket.Chat.Android",
+		"Forks": 299,
+		"TotalBytes": 39993,
+		"GunningFogIndex": 11.369381980579902
+	},
+	{
+		"Name": "tohojo/flent",
+		"Forks": 42,
+		"TotalBytes": 65933,
+		"GunningFogIndex": 9.136114579966707
+	},
+	{
+		"Name": "zubairq/appshare",
+		"Forks": 19,
+		"TotalBytes": 3637,
+		"GunningFogIndex": 11.52546873318265
+	},
+	{
+		"Name": "cloudfoundry-incubator/kubo-deployment",
+		"Forks": 92,
+		"TotalBytes": 466061,
+		"GunningFogIndex": 12.637872887493645
+	},
+	{
+		"Name": "renzifeng/ZFPlayer",
+		"Forks": 1059,
+		"TotalBytes": 13112,
+		"GunningFogIndex": 20.478440726620793
+	},
+	{
+		"Name": "openSUSE/snapper",
+		"Forks": 52,
+		"TotalBytes": 5419,
+		"GunningFogIndex": 10.721111111111114
+	},
+	{
+		"Name": "swoole/swoole-src",
+		"Forks": 2150,
+		"TotalBytes": 24183,
+		"GunningFogIndex": 9.911943239481612
+	},
+	{
+		"Name": "GoogleChromeLabs/clooney",
+		"Forks": 24,
+		"TotalBytes": 4095,
+		"GunningFogIndex": 15.464618395303328
+	},
+	{
+		"Name": "llvm-mirror/lldb",
+		"Forks": 157,
+		"TotalBytes": 14535,
+		"GunningFogIndex": 10.378779478217668
+	},
+	{
+		"Name": "jekil/awesome-hacking",
+		"Forks": 162,
+		"TotalBytes": 68388,
+		"GunningFogIndex": 12.835302144131743
+	},
+	{
+		"Name": "gonum/gonum",
+		"Forks": 114,
+		"TotalBytes": 15800,
+		"GunningFogIndex": 11.11934099888085
+	},
+	{
+		"Name": "codaxy/cxjs",
+		"Forks": 26,
+		"TotalBytes": 81599,
+		"GunningFogIndex": 16.04907644756843
+	},
+	{
+		"Name": "adsbypasser/adsbypasser",
+		"Forks": 93,
+		"TotalBytes": 72336,
+		"GunningFogIndex": 12.158670108835842
+	},
+	{
+		"Name": "gradle/gradle-profiler",
+		"Forks": 32,
+		"TotalBytes": 13915,
+		"GunningFogIndex": 10.191009953988795
+	},
+	{
+		"Name": "grafana/metrictank",
+		"Forks": 39,
+		"TotalBytes": 1010039,
+		"GunningFogIndex": 13.600789649039248
+	},
+	{
+		"Name": "rzwitserloot/lombok",
+		"Forks": 1178,
+		"TotalBytes": 3516,
+		"GunningFogIndex": 11.404127074442863
+	},
+	{
+		"Name": "jOOQ/jOOQ",
+		"Forks": 625,
+		"TotalBytes": 13444,
+		"GunningFogIndex": 8.108087858114086
+	},
+	{
+		"Name": "deepmipt/DeepPavlov",
+		"Forks": 240,
+		"TotalBytes": 153258,
+		"GunningFogIndex": 13.712965079151976
+	},
+	{
+		"Name": "gcc-mirror/gcc",
+		"Forks": 1101,
+		"TotalBytes": 17331679,
+		"GunningFogIndex": 19.36550469518706
+	},
+	{
+		"Name": "Microsoft/Recognizers-Text",
+		"Forks": 81,
+		"TotalBytes": 74610,
+		"GunningFogIndex": 18.374733529509932
+	},
+	{
+		"Name": "dotnet/docs.zh-cn",
+		"Forks": 173,
+		"TotalBytes": 57965828,
+		"GunningFogIndex": 46.229853798009735
+	},
+	{
+		"Name": "dnaeon/go-vcr",
+		"Forks": 17,
+		"TotalBytes": 5575,
+		"GunningFogIndex": 11.308106908875775
+	},
+	{
+		"Name": "JetBrains/intellij-plugins",
+		"Forks": 626,
+		"TotalBytes": 58570,
+		"GunningFogIndex": 9.360713647359848
+	},
+	{
+		"Name": "burhanrashid52/PhotoEditor",
+		"Forks": 145,
+		"TotalBytes": 9423,
+		"GunningFogIndex": 18.230927148718788
+	},
+	{
+		"Name": "voidlinux/void-packages",
+		"Forks": 710,
+		"TotalBytes": 78168,
+		"GunningFogIndex": 10.96844438206503
+	},
+	{
+		"Name": "ARMmbed/mbedtls",
+		"Forks": 872,
+		"TotalBytes": 43328,
+		"GunningFogIndex": 15.473554231280236
+	},
+	{
+		"Name": "evilsocket/xray",
+		"Forks": 159,
+		"TotalBytes": 4682,
+		"GunningFogIndex": 9.092163504225724
+	},
+	{
+		"Name": "minio/minio",
+		"Forks": 1002,
+		"TotalBytes": 821957,
+		"GunningFogIndex": 18.043908193915048
+	},
+	{
+		"Name": "JetBrains/intellij-community",
+		"Forks": 2311,
+		"TotalBytes": 4979,
+		"GunningFogIndex": 13.896056858998692
+	},
+	{
+		"Name": "kraih/mojo",
+		"Forks": 467,
+		"TotalBytes": 4825,
+		"GunningFogIndex": 20.406162162162165
+	},
+	{
+		"Name": "jaegertracing/jaeger-client-java",
+		"Forks": 71,
+		"TotalBytes": 34778,
+		"GunningFogIndex": 14.855165352866793
+	},
+	{
+		"Name": "chemerisuk/better-dateinput-polyfill",
+		"Forks": 46,
+		"TotalBytes": 4415,
+		"GunningFogIndex": 16.61264431006047
+	},
+	{
+		"Name": "FRRouting/frr",
+		"Forks": 209,
+		"TotalBytes": 765581,
+		"GunningFogIndex": 12.196045034248291
+	},
+	{
+		"Name": "openssl/openssl",
+		"Forks": 3509,
+		"TotalBytes": 15556,
+		"GunningFogIndex": 10.784456336806825
+	},
+	{
+		"Name": "purcell/color-theme-sanityinc-tomorrow",
+		"Forks": 29,
+		"TotalBytes": 35179,
+		"GunningFogIndex": 14.96106855768183
+	},
+	{
+		"Name": "frappe/frappe",
+		"Forks": 722,
+		"TotalBytes": 518434,
+		"GunningFogIndex": 14.239913881179541
+	},
+	{
+		"Name": "wireapp/wire-android",
+		"Forks": 392,
+		"TotalBytes": 5439,
+		"GunningFogIndex": 10.791452991452992
+	},
+	{
+		"Name": "graemeg/lazarus",
+		"Forks": 50,
+		"TotalBytes": 1080,
+		"GunningFogIndex": 10.833488372093024
+	},
+	{
+		"Name": "decidim/decidim",
+		"Forks": 73,
+		"TotalBytes": 118247,
+		"GunningFogIndex": 12.448896596879335
+	},
+	{
+		"Name": "symfony/symfony",
+		"Forks": 6235,
+		"TotalBytes": 408936,
+		"GunningFogIndex": 35.66337731317596
+	},
+	{
+		"Name": "psi-im/psi",
+		"Forks": 80,
+		"TotalBytes": 8186,
+		"GunningFogIndex": 9.709270664063034
+	},
+	{
+		"Name": "StockSharp/StockSharp",
+		"Forks": 598,
+		"TotalBytes": 100386,
+		"GunningFogIndex": 13.422378259449337
+	},
+	{
+		"Name": "LiskHQ/lisk",
+		"Forks": 362,
+		"TotalBytes": 36898,
+		"GunningFogIndex": 12.689051541414383
+	},
+	{
+		"Name": "tweag/asterius",
+		"Forks": 4,
+		"TotalBytes": 70616,
+		"GunningFogIndex": 11.135761344759269
+	},
+	{
+		"Name": "radare/radare2",
+		"Forks": 1485,
+		"TotalBytes": 132424,
+		"GunningFogIndex": 16.568512432503002
+	},
+	{
+		"Name": "ceph/ceph",
+		"Forks": 2473,
+		"TotalBytes": 4789662,
+		"GunningFogIndex": 11.332199036758663
+	},
+	{
+		"Name": "wireapp/wire-desktop",
+		"Forks": 135,
+		"TotalBytes": 5057,
+		"GunningFogIndex": 9.19305982098328
+	},
+	{
+		"Name": "Microsoft/vscode-languageserver-node",
+		"Forks": 89,
+		"TotalBytes": 20841,
+		"GunningFogIndex": 25.135078446645156
+	},
+	{
+		"Name": "edx/edx-platform",
+		"Forks": 2089,
+		"TotalBytes": 191812,
+		"GunningFogIndex": 9.83417819818806
+	},
+	{
+		"Name": "thephpleague/statsd",
+		"Forks": 48,
+		"TotalBytes": 7043,
+		"GunningFogIndex": 13.448698637403206
+	},
+	{
+		"Name": "xamarin/Xamarin.Forms",
+		"Forks": 961,
+		"TotalBytes": 17025,
+		"GunningFogIndex": 15.68991913947054
+	},
+	{
+		"Name": "lukesampson/scoop-extras",
+		"Forks": 199,
+		"TotalBytes": 526,
+		"GunningFogIndex": 19.124324324324323
+	},
+	{
+		"Name": "phpstan/phpstan",
+		"Forks": 244,
+		"TotalBytes": 29660,
+		"GunningFogIndex": 16.53604310077789
+	},
+	{
+		"Name": "docker-library/docs",
+		"Forks": 955,
+		"TotalBytes": 2100484,
+		"GunningFogIndex": 12.770483330557946
+	},
+	{
+		"Name": "kubeless/kubeless",
+		"Forks": 249,
+		"TotalBytes": 1192181,
+		"GunningFogIndex": 13.537526716048594
+	},
+	{
+		"Name": "greenshot/greenshot",
+		"Forks": 169,
+		"TotalBytes": 22121,
+		"GunningFogIndex": 14.743046000627066
+	},
+	{
+		"Name": "golang/go",
+		"Forks": 5774,
+		"TotalBytes": 37637,
+		"GunningFogIndex": 10.715936756938076
+	},
+	{
+		"Name": "zloirock/core-js",
+		"Forks": 386,
+		"TotalBytes": 174447,
+		"GunningFogIndex": 15.696691192305545
+	},
+	{
+		"Name": "bitshares/bitshares-ui",
+		"Forks": 346,
+		"TotalBytes": 267960,
+		"GunningFogIndex": 15.789747321252303
+	},
+	{
+		"Name": "apache/camel",
+		"Forks": 2746,
+		"TotalBytes": 5598261,
+		"GunningFogIndex": 19.87038833839343
+	},
+	{
+		"Name": "modelmapper/modelmapper",
+		"Forks": 156,
+		"TotalBytes": 10108,
+		"GunningFogIndex": 19.49007412740314
+	},
+	{
+		"Name": "geogebra/geogebra",
+		"Forks": 69,
+		"TotalBytes": 15481,
+		"GunningFogIndex": 13.08334791518852
+	},
+	{
+		"Name": "zeebe-io/zeebe",
+		"Forks": 37,
+		"TotalBytes": 124627,
+		"GunningFogIndex": 13.827690237356888
+	},
+	{
+		"Name": "wavesplatform/Waves",
+		"Forks": 215,
+		"TotalBytes": 3108,
+		"GunningFogIndex": 10.355842901060294
+	},
+	{
+		"Name": "jbaysolutions/vue-grid-layout",
+		"Forks": 209,
+		"TotalBytes": 14122,
+		"GunningFogIndex": 12.03008872622322
+	},
+	{
+		"Name": "strapi/strapi",
+		"Forks": 533,
+		"TotalBytes": 494490,
+		"GunningFogIndex": 14.524779700216255
+	},
+	{
+		"Name": "wireapp/wire-webapp",
+		"Forks": 174,
+		"TotalBytes": 10964,
+		"GunningFogIndex": 9.09231257857251
+	},
+	{
+		"Name": "getsentry/raven-js",
+		"Forks": 565,
+		"TotalBytes": 182861,
+		"GunningFogIndex": 13.037929996492231
+	},
+	{
+		"Name": "edenhill/librdkafka",
+		"Forks": 962,
+		"TotalBytes": 105598,
+		"GunningFogIndex": 15.21300879342137
+	},
+	{
+		"Name": "elastic/logstash",
+		"Forks": 2466,
+		"TotalBytes": 69002,
+		"GunningFogIndex": 13.020901050512007
+	},
+	{
+		"Name": "kamailio/kamailio",
+		"Forks": 377,
+		"TotalBytes": 26694,
+		"GunningFogIndex": 15.352291782469441
+	},
+	{
+		"Name": "Enalean/tuleap",
+		"Forks": 155,
+		"TotalBytes": 4861,
+		"GunningFogIndex": 15.304132877707985
+	},
+	{
+		"Name": "wix/stylable",
+		"Forks": 22,
+		"TotalBytes": 10102,
+		"GunningFogIndex": 13.656053068543624
+	},
+	{
+		"Name": "wireapp/wire-ios",
+		"Forks": 397,
+		"TotalBytes": 7937,
+		"GunningFogIndex": 9.19866047872058
+	},
+	{
+		"Name": "kubernetes/charts",
+		"Forks": 2904,
+		"TotalBytes": 1500166,
+		"GunningFogIndex": 18.73693863234209
+	},
+	{
+		"Name": "carp-lang/Carp",
+		"Forks": 75,
+		"TotalBytes": 37713,
+		"GunningFogIndex": 13.300740621387389
+	},
+	{
+		"Name": "servo/servo",
+		"Forks": 1904,
+		"TotalBytes": 359142,
+		"GunningFogIndex": 11.654149710551406
+	},
+	{
+		"Name": "lamdu/lamdu",
+		"Forks": 55,
+		"TotalBytes": 49647,
+		"GunningFogIndex": 12.833591844739262
+	},
+	{
+		"Name": "reactjs/react-rails",
+		"Forks": 549,
+		"TotalBytes": 49819,
+		"GunningFogIndex": 12.370416182404103
+	},
+	{
+		"Name": "maticzav/graphql-shield",
+		"Forks": 16,
+		"TotalBytes": 12117,
+		"GunningFogIndex": 11.125535597397622
+	},
+	{
+		"Name": "ckeditor/ckeditor-dev",
+		"Forks": 1818,
+		"TotalBytes": 578695,
+		"GunningFogIndex": 9.393465320201384
+	},
+	{
+		"Name": "danmar/cppcheck",
+		"Forks": 535,
+		"TotalBytes": 6187,
+		"GunningFogIndex": 12.38346054649811
+	},
+	{
+		"Name": "liximomo/vscode-sftp",
+		"Forks": 39,
+		"TotalBytes": 13867,
+		"GunningFogIndex": 7.2514194141080095
+	},
+	{
+		"Name": "SecWiki/CMS-Hunter",
+		"Forks": 106,
+		"TotalBytes": 30363,
+		"GunningFogIndex": 13.048551632219661
+	},
+	{
+		"Name": "crate/crate",
+		"Forks": 269,
+		"TotalBytes": 975723,
+		"GunningFogIndex": 7.734604881805801
+	},
+	{
+		"Name": "Dart-Code/Dart-Code",
+		"Forks": 45,
+		"TotalBytes": 15891,
+		"GunningFogIndex": 15.999183976320538
+	},
+	{
+		"Name": "arachnys/cabot",
+		"Forks": 443,
+		"TotalBytes": 6211,
+		"GunningFogIndex": 14.456786121615943
+	},
+	{
+		"Name": "letoram/arcan",
+		"Forks": 17,
+		"TotalBytes": 66063,
+		"GunningFogIndex": 14.217909546804073
+	},
+	{
+		"Name": "Lede-Inc/cetus",
+		"Forks": 123,
+		"TotalBytes": 115378,
+		"GunningFogIndex": 32.9050202017554
+	},
+	{
+		"Name": "spring-projects/spring-boot",
+		"Forks": 18862,
+		"TotalBytes": 957449,
+		"GunningFogIndex": 16.78854376917655
+	},
+	{
+		"Name": "opnsense/core",
+		"Forks": 201,
+		"TotalBytes": 6654,
+		"GunningFogIndex": 13.926342647267871
+	},
+	{
+		"Name": "onivim/oni",
+		"Forks": 228,
+		"TotalBytes": 35811,
+		"GunningFogIndex": 25.02849307968882
+	},
+	{
+		"Name": "kubernetes-incubator/kubespray",
+		"Forks": 1204,
+		"TotalBytes": 168878,
+		"GunningFogIndex": 15.43058466768533
+	},
+	{
+		"Name": "apollographql/react-apollo",
+		"Forks": 390,
+		"TotalBytes": 166574,
+		"GunningFogIndex": 11.688252473694613
+	},
+	{
+		"Name": "realm/realm-js",
+		"Forks": 230,
+		"TotalBytes": 65262,
+		"GunningFogIndex": 10.313324968479563
+	},
+	{
+		"Name": "technige/py2neo",
+		"Forks": 137,
+		"TotalBytes": 31640,
+		"GunningFogIndex": 10.813578906206367
+	},
+	{
+		"Name": "openSUSE/open-build-service",
+		"Forks": 234,
+		"TotalBytes": 28856,
+		"GunningFogIndex": 10.834566777033436
+	},
+	{
+		"Name": "staltz/cycle-onionify",
+		"Forks": 22,
+		"TotalBytes": 22925,
+		"GunningFogIndex": 10.080288934972254
+	},
+	{
+		"Name": "HSLdevcom/digitransit-ui",
+		"Forks": 55,
+		"TotalBytes": 23476,
+		"GunningFogIndex": 18.720458858214702
+	},
+	{
+		"Name": "BelledonneCommunications/linphone-android",
+		"Forks": 308,
+		"TotalBytes": 8626,
+		"GunningFogIndex": 10.019709250021586
+	},
+	{
+		"Name": "zeit/next-plugins",
+		"Forks": 83,
+		"TotalBytes": 25716,
+		"GunningFogIndex": 29.06498786441889
+	},
+	{
+		"Name": "dalibo/pgbadger",
+		"Forks": 160,
+		"TotalBytes": 1454,
+		"GunningFogIndex": 6.369298918136128
+	},
+	{
+		"Name": "meganz/webclient",
+		"Forks": 119,
+		"TotalBytes": 28108,
+		"GunningFogIndex": 13.107272215896824
+	},
+	{
+		"Name": "digoal/blog",
+		"Forks": 424,
+		"TotalBytes": 23841156,
+		"GunningFogIndex": 25.29630355237242
+	},
+	{
+		"Name": "openlink/virtuoso-opensource",
+		"Forks": 138,
+		"TotalBytes": 6294,
+		"GunningFogIndex": 16.448097412480973
+	},
+	{
+		"Name": "zmartzone/lua-resty-openidc",
+		"Forks": 77,
+		"TotalBytes": 18489,
+		"GunningFogIndex": 16.175809512150334
+	},
+	{
+		"Name": "qor/qor",
+		"Forks": 475,
+		"TotalBytes": 3132,
+		"GunningFogIndex": 16.041558441558443
+	},
+	{
+		"Name": "Jermolene/TiddlyWiki5",
+		"Forks": 645,
+		"TotalBytes": 76921,
+		"GunningFogIndex": 23.032859269664847
+	},
+	{
+		"Name": "glpi-project/glpi",
+		"Forks": 314,
+		"TotalBytes": 105711,
+		"GunningFogIndex": 14.722157265452003
+	},
+	{
+		"Name": "openstack/glance",
+		"Forks": 459,
+		"TotalBytes": 559722,
+		"GunningFogIndex": 10.010895230227757
+	},
+	{
+		"Name": "costajob/app-servers",
+		"Forks": 12,
+		"TotalBytes": 14008,
+		"GunningFogIndex": 11.421332180923796
+	},
+	{
+		"Name": "rust-lang-nursery/rust-clippy",
+		"Forks": 302,
+		"TotalBytes": 65659,
+		"GunningFogIndex": 7.676516121225557
+	},
+	{
+		"Name": "prismagraphql/prisma",
+		"Forks": 480,
+		"TotalBytes": 4217813,
+		"GunningFogIndex": 13.365174455937145
+	},
+	{
+		"Name": "dddomodossola/remi",
+		"Forks": 125,
+		"TotalBytes": 20232,
+		"GunningFogIndex": 8.680246598775856
+	},
+	{
+		"Name": "wikimedia/wikipedia-ios",
+		"Forks": 410,
+		"TotalBytes": 30519,
+		"GunningFogIndex": 14.72465659202133
+	},
+	{
+		"Name": "mcollina/aedes",
+		"Forks": 41,
+		"TotalBytes": 12636,
+		"GunningFogIndex": 13.333451223106398
+	},
+	{
+		"Name": "geotools/geotools",
+		"Forks": 661,
+		"TotalBytes": 2131022,
+		"GunningFogIndex": 12.543447129859011
+	},
+	{
+		"Name": "CyberMonitor/APT_CyberCriminal_Campagin_Collections",
+		"Forks": 133,
+		"TotalBytes": 152653,
+		"GunningFogIndex": 37.83357406203998
+	},
+	{
+		"Name": "stp/stp",
+		"Forks": 80,
+		"TotalBytes": 36719,
+		"GunningFogIndex": 12.742874779039868
+	},
+	{
+		"Name": "inhere/php-console",
+		"Forks": 22,
+		"TotalBytes": 37051,
+		"GunningFogIndex": 20.02023073184248
+	},
+	{
+		"Name": "ethereum/solidity",
+		"Forks": 1337,
+		"TotalBytes": 493804,
+		"GunningFogIndex": 10.936675775290741
+	},
+	{
+		"Name": "feross/thanks",
+		"Forks": 101,
+		"TotalBytes": 1852,
+		"GunningFogIndex": 9.1112013536379
+	},
+	{
+		"Name": "char0n/ramda-adjunct",
+		"Forks": 23,
+		"TotalBytes": 59291,
+		"GunningFogIndex": 13.568839338858998
+	},
+	{
+		"Name": "JuliaGizmos/Interact.jl",
+		"Forks": 42,
+		"TotalBytes": 6509,
+		"GunningFogIndex": 18.413406676001284
+	},
+	{
+		"Name": "aio-libs/yarl",
+		"Forks": 47,
+		"TotalBytes": 35943,
+		"GunningFogIndex": 8.610251433538773
+	},
+	{
+		"Name": "mozilla/gecko-dev",
+		"Forks": 1130,
+		"TotalBytes": 1188452,
+		"GunningFogIndex": 16.419082700771206
+	},
+	{
+		"Name": "xwiki/xwiki-platform",
+		"Forks": 264,
+		"TotalBytes": 1700,
+		"GunningFogIndex": 17.895652173913046
+	},
+	{
+		"Name": "blinksh/blink",
+		"Forks": 232,
+		"TotalBytes": 32340,
+		"GunningFogIndex": 8.953688427522062
+	},
+	{
+		"Name": "surveyjs/surveyjs",
+		"Forks": 273,
+		"TotalBytes": 16646,
+		"GunningFogIndex": 14.380842369659698
+	},
+	{
+		"Name": "facebook/draft-js",
+		"Forks": 1381,
+		"TotalBytes": 285260,
+		"GunningFogIndex": 16.59553954807129
+	},
+	{
+		"Name": "final-form/react-final-form",
+		"Forks": 86,
+		"TotalBytes": 52057,
+		"GunningFogIndex": 12.057861312609669
+	},
+	{
+		"Name": "SvenTiigi/WhatsNewKit",
+		"Forks": 9,
+		"TotalBytes": 20623,
+		"GunningFogIndex": 21.522172181632136
+	},
+	{
+		"Name": "codelibs/fess",
+		"Forks": 75,
+		"TotalBytes": 7420,
+		"GunningFogIndex": 10.191749383395143
+	},
+	{
+		"Name": "hammerjs/hammer.js",
+		"Forks": 2458,
+		"TotalBytes": 12337,
+		"GunningFogIndex": 13.704035790036816
+	},
+	{
+		"Name": "wix/react-native-navigation",
+		"Forks": 1486,
+		"TotalBytes": 76655,
+		"GunningFogIndex": 14.921725766064148
+	},
+	{
+		"Name": "stylelint/stylelint",
+		"Forks": 441,
+		"TotalBytes": 493942,
+		"GunningFogIndex": 18.566934997993506
+	},
+	{
+		"Name": "naver/billboard.js",
+		"Forks": 153,
+		"TotalBytes": 15991,
+		"GunningFogIndex": 12.772066693480486
+	},
+	{
+		"Name": "hyperledger/composer",
+		"Forks": 559,
+		"TotalBytes": 682146,
+		"GunningFogIndex": 14.282210204967772
+	},
+	{
+		"Name": "ricequant/rqalpha",
+		"Forks": 931,
+		"TotalBytes": 260534,
+		"GunningFogIndex": 18.449891253235425
+	},
+	{
+		"Name": "paritytech/parity",
+		"Forks": 874,
+		"TotalBytes": 556414,
+		"GunningFogIndex": 15.70944357222667
+	},
+	{
+		"Name": "aol/cyclops-react",
+		"Forks": 78,
+		"TotalBytes": 219384,
+		"GunningFogIndex": 26.36084836083833
+	},
+	{
+		"Name": "siimple/siimple",
+		"Forks": 46,
+		"TotalBytes": 9705,
+		"GunningFogIndex": 11.104745969473266
+	},
+	{
+		"Name": "toolswatch/blackhat-arsenal-tools",
+		"Forks": 430,
+		"TotalBytes": 95416,
+		"GunningFogIndex": 22.820896089949805
+	},
+	{
+		"Name": "Kotlin/kotlinx.coroutines",
+		"Forks": 293,
+		"TotalBytes": 262337,
+		"GunningFogIndex": 16.22482015362733
+	},
+	{
+		"Name": "snapcore/snapd",
+		"Forks": 236,
+		"TotalBytes": 29871,
+		"GunningFogIndex": 15.989108681652883
+	},
+	{
+		"Name": "arangodb/arangodb",
+		"Forks": 429,
+		"TotalBytes": 2112496,
+		"GunningFogIndex": 12.658929346684985
+	},
+	{
+		"Name": "yandex/odyssey",
+		"Forks": 14,
+		"TotalBytes": 35014,
+		"GunningFogIndex": 17.871546748911726
+	},
+	{
+		"Name": "godotengine/godot",
+		"Forks": 3167,
+		"TotalBytes": 57662,
+		"GunningFogIndex": 12.386087245836991
+	},
+	{
+		"Name": "sbt/zinc",
+		"Forks": 67,
+		"TotalBytes": 7739,
+		"GunningFogIndex": 10.107678900620078
+	},
+	{
+		"Name": "SnappyDataInc/snappydata",
+		"Forks": 132,
+		"TotalBytes": 1023938,
+		"GunningFogIndex": 16.931752515148588
+	},
+	{
+		"Name": "aspnet/Routing",
+		"Forks": 110,
+		"TotalBytes": 2044,
+		"GunningFogIndex": 15.264545659174814
+	},
+	{
+		"Name": "rabbitmq/rabbitmq-server",
+		"Forks": 1072,
+		"TotalBytes": 12972,
+		"GunningFogIndex": 17.56231105760507
+	},
+	{
+		"Name": "apache/rocketmq",
+		"Forks": 2053,
+		"TotalBytes": 8398,
+		"GunningFogIndex": 27.18806546932357
+	},
+	{
+		"Name": "Homebrew/homebrew-core",
+		"Forks": 4437,
+		"TotalBytes": 8498,
+		"GunningFogIndex": 12.146570943402937
+	},
+	{
+		"Name": "teamon/tesla",
+		"Forks": 80,
+		"TotalBytes": 13782,
+		"GunningFogIndex": 19.02788466136411
+	},
+	{
+		"Name": "limodou/uliweb",
+		"Forks": 97,
+		"TotalBytes": 40750,
+		"GunningFogIndex": 16.674734697521643
+	},
+	{
+		"Name": "quasarframework/quasar",
+		"Forks": 568,
+		"TotalBytes": 20380,
+		"GunningFogIndex": 16.409337264166336
+	},
+	{
+		"Name": "ravendb/ravendb",
+		"Forks": 681,
+		"TotalBytes": 12546,
+		"GunningFogIndex": 11.548131337410231
+	},
+	{
+		"Name": "logary/logary",
+		"Forks": 64,
+		"TotalBytes": 109329,
+		"GunningFogIndex": 10.82823277213226
+	},
+	{
+		"Name": "fossology/fossology",
+		"Forks": 74,
+		"TotalBytes": 57149,
+		"GunningFogIndex": 14.449165179900135
+	},
+	{
+		"Name": "github/hub",
+		"Forks": 1285,
+		"TotalBytes": 35627,
+		"GunningFogIndex": 15.28817564161823
+	},
+	{
+		"Name": "zalando-incubator/kube-ingress-aws-controller",
+		"Forks": 33,
+		"TotalBytes": 45990,
+		"GunningFogIndex": 17.733069053862366
+	},
+	{
+		"Name": "LiskHQ/lisk-elements",
+		"Forks": 69,
+		"TotalBytes": 23323,
+		"GunningFogIndex": 12.713974536031463
+	},
+	{
+		"Name": "charliekassel/vuejs-datepicker",
+		"Forks": 355,
+		"TotalBytes": 13839,
+		"GunningFogIndex": 18.89347077456417
+	},
+	{
+		"Name": "yarnpkg/yarn",
+		"Forks": 1796,
+		"TotalBytes": 112826,
+		"GunningFogIndex": 17.946757065867118
+	},
+	{
+		"Name": "Tencent/bk-cmdb",
+		"Forks": 477,
+		"TotalBytes": 741211,
+		"GunningFogIndex": 43.85173209545921
+	},
+	{
+		"Name": "facebook/react-native",
+		"Forks": 14660,
+		"TotalBytes": 74953,
+		"GunningFogIndex": 13.480123213988742
+	},
+	{
+		"Name": "CanalTP/navitia",
+		"Forks": 83,
+		"TotalBytes": 395078,
+		"GunningFogIndex": 19.008632083009672
+	},
+	{
+		"Name": "ory/editor",
+		"Forks": 348,
+		"TotalBytes": 102708,
+		"GunningFogIndex": 10.55565266395307
+	},
+	{
+		"Name": "DevExpress/testcafe",
+		"Forks": 249,
+		"TotalBytes": 650158,
+		"GunningFogIndex": 15.691524708225211
+	},
+	{
+		"Name": "galaxyproject/galaxy",
+		"Forks": 447,
+		"TotalBytes": 1274712,
+		"GunningFogIndex": 15.990310625398715
+	},
+	{
+		"Name": "naver/arcus",
+		"Forks": 70,
+		"TotalBytes": 31796,
+		"GunningFogIndex": 18.4710424255404
+	},
+	{
+		"Name": "ng-bootstrap/ng-bootstrap",
+		"Forks": 884,
+		"TotalBytes": 108630,
+		"GunningFogIndex": 23.208847241211817
+	},
+	{
+		"Name": "ponchio/untrunc",
+		"Forks": 96,
+		"TotalBytes": 4436,
+		"GunningFogIndex": 13.373973221001956
+	},
+	{
+		"Name": "progre/tslint-config-airbnb",
+		"Forks": 35,
+		"TotalBytes": 3242,
+		"GunningFogIndex": 10.079912835520313
+	},
+	{
+		"Name": "authentic-theme/authentic-theme",
+		"Forks": 137,
+		"TotalBytes": 27200,
+		"GunningFogIndex": 30.641514475599543
+	},
+	{
+		"Name": "the-control-group/voyager",
+		"Forks": 1415,
+		"TotalBytes": 4602,
+		"GunningFogIndex": 8.042041180595398
+	},
+	{
+		"Name": "handsontable/handsontable",
+		"Forks": 2013,
+		"TotalBytes": 14611,
+		"GunningFogIndex": 13.331147061201625
+	},
+	{
+		"Name": "jetstack/cert-manager",
+		"Forks": 171,
+		"TotalBytes": 1266448,
+		"GunningFogIndex": 12.755413908385714
+	},
+	{
+		"Name": "probil/v-mask",
+		"Forks": 65,
+		"TotalBytes": 8745,
+		"GunningFogIndex": 14.50843057311325
+	},
+	{
+		"Name": "Icinga/icinga2",
+		"Forks": 352,
+		"TotalBytes": 1646258,
+		"GunningFogIndex": 12.479571881857593
+	},
+	{
+		"Name": "siteorigin/siteorigin-panels",
+		"Forks": 176,
+		"TotalBytes": 751,
+		"GunningFogIndex": 12.055555555555557
+	},
+	{
+		"Name": "akka/akka",
+		"Forks": 2742,
+		"TotalBytes": 1672615,
+		"GunningFogIndex": 14.31067036178687
+	},
+	{
+		"Name": "qaprosoft/carina",
+		"Forks": 30,
+		"TotalBytes": 65304,
+		"GunningFogIndex": 21.382982832360586
+	},
+	{
+		"Name": "RickStrahl/MarkdownMonster",
+		"Forks": 77,
+		"TotalBytes": 169929,
+		"GunningFogIndex": 15.692355360844273
+	},
+	{
+		"Name": "developit/unistore",
+		"Forks": 92,
+		"TotalBytes": 11650,
+		"GunningFogIndex": 19.348825728979595
+	},
+	{
+		"Name": "woocommerce/woocommerce",
+		"Forks": 4124,
+		"TotalBytes": 23332,
+		"GunningFogIndex": 16.836940080416777
+	},
+	{
+		"Name": "zoujingli/ThinkAdmin",
+		"Forks": 313,
+		"TotalBytes": 74997,
+		"GunningFogIndex": 20.042992763896333
+	},
+	{
+		"Name": "apache/trafficserver",
+		"Forks": 514,
+		"TotalBytes": 2208267,
+		"GunningFogIndex": 9.487502927714822
+	},
+	{
+		"Name": "languagetool-org/languagetool",
+		"Forks": 439,
+		"TotalBytes": 79701,
+		"GunningFogIndex": 15.114444027741355
+	},
+	{
+		"Name": "ethereum/go-ethereum",
+		"Forks": 5924,
+		"TotalBytes": 344335,
+		"GunningFogIndex": 13.978566352915063
+	},
+	{
+		"Name": "chainer/chainercv",
+		"Forks": 143,
+		"TotalBytes": 67313,
+		"GunningFogIndex": 14.097591525802576
+	},
+	{
+		"Name": "Microsoft/pai",
+		"Forks": 71,
+		"TotalBytes": 181610,
+		"GunningFogIndex": 16.552570657210566
+	},
+	{
+		"Name": "RT-Thread/rt-thread",
+		"Forks": 1149,
+		"TotalBytes": 175423,
+		"GunningFogIndex": 15.6656461246558
+	},
+	{
+		"Name": "yysijie/st-gcn",
+		"Forks": 61,
+		"TotalBytes": 9095,
+		"GunningFogIndex": 9.512140712140711
+	},
+	{
+		"Name": "nim-lang/Nim",
+		"Forks": 664,
+		"TotalBytes": 766989,
+		"GunningFogIndex": 9.883377577459951
+	},
+	{
+		"Name": "Unity-Technologies/PostProcessing",
+		"Forks": 354,
+		"TotalBytes": 138975,
+		"GunningFogIndex": 12.467702987115983
+	},
+	{
+		"Name": "apachecn/pytorch-doc-zh",
+		"Forks": 118,
+		"TotalBytes": 333964,
+		"GunningFogIndex": 13.440478645116235
+	},
+	{
+		"Name": "creditease-sec/insight",
+		"Forks": 169,
+		"TotalBytes": 134208,
+		"GunningFogIndex": 37.96300648748489
+	},
+	{
+		"Name": "zefoy/ngx-perfect-scrollbar",
+		"Forks": 60,
+		"TotalBytes": 9602,
+		"GunningFogIndex": 18.579048792422782
+	},
+	{
+		"Name": "martenbjork/github-xp",
+		"Forks": 40,
+		"TotalBytes": 552,
+		"GunningFogIndex": 18.761702127659575
+	},
+	{
+		"Name": "theforeman/foreman",
+		"Forks": 735,
+		"TotalBytes": 11205,
+		"GunningFogIndex": 21.607498984541216
+	},
+	{
+		"Name": "Zilliqa/Zilliqa",
+		"Forks": 98,
+		"TotalBytes": 12471,
+		"GunningFogIndex": 64.55375263202727
+	},
+	{
+		"Name": "instagrambot/instabot",
+		"Forks": 292,
+		"TotalBytes": 9895,
+		"GunningFogIndex": 12.846747109158919
+	},
+	{
+		"Name": "GoogleChromeLabs/houdini-samples",
+		"Forks": 46,
+		"TotalBytes": 4440,
+		"GunningFogIndex": 10.23804669246112
+	},
+	{
+		"Name": "OTRS/otrs",
+		"Forks": 343,
+		"TotalBytes": 1130240,
+		"GunningFogIndex": 17.697879030675605
+	},
+	{
+		"Name": "webpack/webpack",
+		"Forks": 5209,
+		"TotalBytes": 700855,
+		"GunningFogIndex": 16.316500041590594
+	},
+	{
+		"Name": "geopy/geopy",
+		"Forks": 389,
+		"TotalBytes": 37820,
+		"GunningFogIndex": 9.78670174151318
+	},
+	{
+		"Name": "pandas-dev/pandas",
+		"Forks": 5888,
+		"TotalBytes": 1397144,
+		"GunningFogIndex": 10.564291101711824
+	},
+	{
+		"Name": "google/syzkaller",
+		"Forks": 346,
+		"TotalBytes": 217332,
+		"GunningFogIndex": 27.473244202275822
+	},
+	{
+		"Name": "bitcoin/bitcoin",
+		"Forks": 19391,
+		"TotalBytes": 804950,
+		"GunningFogIndex": 11.672614803197153
+	},
+	{
+		"Name": "Ultimaker/Cura",
+		"Forks": 458,
+		"TotalBytes": 7669,
+		"GunningFogIndex": 8.929139542493859
+	},
+	{
+		"Name": "hybridsjs/hybrids",
+		"Forks": 10,
+		"TotalBytes": 29893,
+		"GunningFogIndex": 13.986605276342544
+	},
+	{
+		"Name": "google/ggrc-core",
+		"Forks": 217,
+		"TotalBytes": 246754,
+		"GunningFogIndex": 11.738153520510854
+	},
+	{
+		"Name": "desktop/desktop",
+		"Forks": 2023,
+		"TotalBytes": 182422,
+		"GunningFogIndex": 15.179892038932408
+	},
+	{
+		"Name": "apache/incubator-skywalking",
+		"Forks": 1120,
+		"TotalBytes": 185465,
+		"GunningFogIndex": 17.04391501012836
+	},
+	{
+		"Name": "nhibernate/nhibernate-core",
+		"Forks": 773,
+		"TotalBytes": 11915,
+		"GunningFogIndex": 15.330248791597917
+	},
+	{
+		"Name": "uglide/RedisDesktopManager",
+		"Forks": 1134,
+		"TotalBytes": 18929,
+		"GunningFogIndex": 12.250039125630828
+	},
+	{
+		"Name": "openatx/uiautomator2",
+		"Forks": 100,
+		"TotalBytes": 35330,
+		"GunningFogIndex": 12.240079469992857
+	},
+	{
+		"Name": "spritejs/spritejs",
+		"Forks": 18,
+		"TotalBytes": 134935,
+		"GunningFogIndex": 23.277113873496987
+	},
+	{
+		"Name": "yonaskolb/Mint",
+		"Forks": 17,
+		"TotalBytes": 12071,
+		"GunningFogIndex": 11.242928251346207
+	},
+	{
+		"Name": "kubernetes-incubator/kube-aws",
+		"Forks": 202,
+		"TotalBytes": 455937,
+		"GunningFogIndex": 13.448005556523412
+	},
+	{
+		"Name": "php-vcr/php-vcr",
+		"Forks": 107,
+		"TotalBytes": 9102,
+		"GunningFogIndex": 15.317327887555347
+	},
+	{
+		"Name": "apachecn/hands_on_Ml_with_Sklearn_and_TF",
+		"Forks": 284,
+		"TotalBytes": 761030,
+		"GunningFogIndex": 33.03911681466806
+	},
+	{
+		"Name": "ariya/phantomjs",
+		"Forks": 5479,
+		"TotalBytes": 34324,
+		"GunningFogIndex": 10.491810317558514
+	},
+	{
+		"Name": "walkor/Workerman",
+		"Forks": 1733,
+		"TotalBytes": 15043,
+		"GunningFogIndex": 14.569727126805777
+	},
+	{
+		"Name": "marijnh/Eloquent-JavaScript",
+		"Forks": 444,
+		"TotalBytes": 861552,
+		"GunningFogIndex": 11.74768037043045
+	},
+	{
+		"Name": "stripe/stripe-java",
+		"Forks": 200,
+		"TotalBytes": 26601,
+		"GunningFogIndex": 11.41402869906914
+	},
+	{
+		"Name": "kubevirt/kubevirt",
+		"Forks": 138,
+		"TotalBytes": 886452,
+		"GunningFogIndex": 13.729831684582969
+	},
+	{
+		"Name": "conan-io/conan",
+		"Forks": 238,
+		"TotalBytes": 13280,
+		"GunningFogIndex": 12.592658917551784
+	},
+	{
+		"Name": "meetalva/alva",
+		"Forks": 83,
+		"TotalBytes": 50757,
+		"GunningFogIndex": 19.129784400791262
+	},
+	{
+		"Name": "ovh/cds",
+		"Forks": 51,
+		"TotalBytes": 310839,
+		"GunningFogIndex": 17.36911173636344
+	},
+	{
+		"Name": "Gamua/Starling-Framework",
+		"Forks": 889,
+		"TotalBytes": 71165,
+		"GunningFogIndex": 16.208039450023247
+	},
+	{
+		"Name": "brian-team/brian2",
+		"Forks": 71,
+		"TotalBytes": 505407,
+		"GunningFogIndex": 12.102641403073203
+	},
+	{
+		"Name": "Kinto/kinto",
+		"Forks": 277,
+		"TotalBytes": 513895,
+		"GunningFogIndex": 14.122575377692046
+	},
+	{
+		"Name": "prometheus/prometheus",
+		"Forks": 2157,
+		"TotalBytes": 457232,
+		"GunningFogIndex": 16.1161700696618
+	},
+	{
+		"Name": "Kitware/VTK",
+		"Forks": 527,
+		"TotalBytes": 272479,
+		"GunningFogIndex": 11.195425207017728
+	},
+	{
+		"Name": "ReactiveX/rxdart",
+		"Forks": 28,
+		"TotalBytes": 30052,
+		"GunningFogIndex": 18.70700681233524
+	},
+	{
+		"Name": "gluster/glusterfs",
+		"Forks": 629,
+		"TotalBytes": 296706,
+		"GunningFogIndex": 12.87492303416818
+	},
+	{
+		"Name": "dtschump/gmic",
+		"Forks": 24,
+		"TotalBytes": 3535,
+		"GunningFogIndex": 13.233018867924528
+	},
+	{
+		"Name": "diku-dk/futhark",
+		"Forks": 51,
+		"TotalBytes": 134222,
+		"GunningFogIndex": 9.295211978035102
+	},
+	{
+		"Name": "rabbitmq/rabbitmq-management",
+		"Forks": 103,
+		"TotalBytes": 11058,
+		"GunningFogIndex": 15.277817175757082
+	},
+	{
+		"Name": "Yoast/wordpress-seo",
+		"Forks": 526,
+		"TotalBytes": 10329,
+		"GunningFogIndex": 11.329391830672165
+	},
+	{
+		"Name": "rabbitmq/rabbitmq-delayed-message-exchange",
+		"Forks": 38,
+		"TotalBytes": 10830,
+		"GunningFogIndex": 14.804396299915405
+	},
+	{
+		"Name": "cocos-creator/engine",
+		"Forks": 381,
+		"TotalBytes": 50094,
+		"GunningFogIndex": 10.835699109797055
+	},
+	{
+		"Name": "kasper/phoenix",
+		"Forks": 66,
+		"TotalBytes": 78175,
+		"GunningFogIndex": 11.41836182598739
+	},
+	{
+		"Name": "Homebrew/homebrew-cask",
+		"Forks": 6197,
+		"TotalBytes": 145152,
+		"GunningFogIndex": 11.443137472352552
+	},
+	{
+		"Name": "SimpleMobileTools/Simple-Camera",
+		"Forks": 98,
+		"TotalBytes": 10978,
+		"GunningFogIndex": 10.201676299885602
+	},
+	{
+		"Name": "fluent/fluentd",
+		"Forks": 777,
+		"TotalBytes": 51790,
+		"GunningFogIndex": 13.008617750364332
+	},
+	{
+		"Name": "Baystation12/Baystation12",
+		"Forks": 989,
+		"TotalBytes": 31504,
+		"GunningFogIndex": 10.67065689502452
+	},
+	{
+		"Name": "python/pythondotorg",
+		"Forks": 306,
+		"TotalBytes": 21903,
+		"GunningFogIndex": 10.137214397038948
+	},
+	{
+		"Name": "xtuc/webassemblyjs",
+		"Forks": 23,
+		"TotalBytes": 40701,
+		"GunningFogIndex": 17.69524429401633
+	},
+	{
+		"Name": "aermin/airchat",
+		"Forks": 50,
+		"TotalBytes": 8057,
+		"GunningFogIndex": 29.617042606516293
+	},
+	{
+		"Name": "wso2/siddhi",
+		"Forks": 281,
+		"TotalBytes": 2830534,
+		"GunningFogIndex": 21.71479811987668
+	},
+	{
+		"Name": "akeneo/pim-community-standard",
+		"Forks": 101,
+		"TotalBytes": 590779,
+		"GunningFogIndex": 38.74928563646876
+	}
+]
